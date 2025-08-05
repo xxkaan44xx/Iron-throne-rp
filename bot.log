@@ -1,0 +1,1271 @@
+2025-07-27 16:51:31,083 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-07-27 17:00:00,795 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 17:00:00,994 - database - INFO - Database tables created successfully
+2025-07-27 17:00:01,024 - database - INFO - Default house data populated
+2025-07-27 17:00:01,024 - database - INFO - Database initialized successfully
+2025-07-27 17:00:57,233 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 17:00:57,250 - database - INFO - Database tables created successfully
+2025-07-27 17:00:57,287 - database - INFO - Default house data populated
+2025-07-27 17:00:57,288 - database - INFO - Database initialized successfully
+2025-07-27 17:00:57,290 - commands - INFO - Commands setup completed successfully
+2025-07-27 17:00:57,290 - discord.client - INFO - logging in using static token
+2025-07-27 17:00:57,742 - __main__ - INFO - Setting up background tasks...
+2025-07-27 17:00:57,955 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3b8ae21ae072217786015dd9324e8a0b).
+2025-07-27 17:00:59,992 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 17:00:59,992 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 17:00:59,993 - economy - ERROR - Income generation error: near "is": syntax error
+2025-07-27 17:01:29,101 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 17:01:29,102 - database - INFO - Database tables created successfully
+2025-07-27 17:01:29,148 - database - INFO - Default house data populated
+2025-07-27 17:01:29,148 - database - INFO - Database initialized successfully
+2025-07-27 17:01:29,150 - commands - INFO - Commands setup completed successfully
+2025-07-27 17:01:29,150 - discord.client - INFO - logging in using static token
+2025-07-27 17:01:29,629 - __main__ - INFO - Setting up background tasks...
+2025-07-27 17:01:29,943 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0fac5a0fc5e77a91f8af7af5ae3427c9).
+2025-07-27 17:01:31,985 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 17:01:31,985 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 17:20:54,284 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 17:20:54,287 - database - INFO - Database tables created successfully
+2025-07-27 17:20:54,302 - database - INFO - Default house data populated
+2025-07-27 17:20:54,302 - database - INFO - Database initialized successfully
+2025-07-27 17:20:54,305 - commands - INFO - Commands setup completed successfully
+2025-07-27 17:20:54,305 - discord.client - INFO - logging in using static token
+2025-07-27 17:20:54,848 - __main__ - INFO - Setting up background tasks...
+2025-07-27 17:20:55,059 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 52f9a5009befb3fae03bef75c7c6e263).
+2025-07-27 17:20:57,094 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 17:20:57,094 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 17:21:51,234 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 17:21:51,236 - database - INFO - Database tables created successfully
+2025-07-27 17:21:51,254 - database - INFO - Default house data populated
+2025-07-27 17:21:51,254 - database - INFO - Database initialized successfully
+2025-07-27 17:21:51,257 - commands - INFO - Commands setup completed successfully
+2025-07-27 17:21:51,257 - discord.client - INFO - logging in using static token
+2025-07-27 17:21:51,772 - __main__ - INFO - Setting up background tasks...
+2025-07-27 17:21:52,128 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 349df7cea057f83d3008da3ac7b43e3b).
+2025-07-27 17:21:54,151 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 17:21:54,151 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 17:26:49,257 - commands - ERROR - List alliances error: no such column: m.id
+2025-07-27 17:39:23,915 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 17:39:23,917 - database - INFO - Database tables created successfully
+2025-07-27 17:39:23,984 - database - INFO - Default house data populated
+2025-07-27 17:39:23,984 - database - INFO - Database initialized successfully
+2025-07-27 17:39:23,987 - commands - INFO - Commands setup completed successfully
+2025-07-27 17:39:23,987 - discord.client - INFO - logging in using static token
+2025-07-27 17:39:24,615 - __main__ - INFO - Setting up background tasks...
+2025-07-27 17:39:25,011 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c1b9ee958cc2ca7602d5b0bd7fb516f7).
+2025-07-27 17:39:27,049 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 17:39:27,049 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 18:19:09,617 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 18:19:09,624 - database - INFO - Database tables created successfully
+2025-07-27 18:19:09,662 - database - INFO - Baratheon debt to Lannister created
+2025-07-27 18:19:09,663 - database - INFO - Default house data populated
+2025-07-27 18:19:09,663 - database - INFO - Database initialized successfully
+2025-07-27 18:19:09,717 - commands - INFO - Commands setup completed successfully
+2025-07-27 18:19:09,717 - discord.client - INFO - logging in using static token
+2025-07-27 18:19:10,269 - __main__ - INFO - Setting up background tasks...
+2025-07-27 18:19:10,507 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0c9b9d7d905d44073558102ba7601d35).
+2025-07-27 18:19:12,533 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 18:19:12,534 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 18:19:12,582 - economy - INFO - Applied 51 gold in debt interest to 1 debts
+2025-07-27 19:16:52,990 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 19:16:52,999 - database - INFO - Database tables created successfully
+2025-07-27 19:16:53,063 - database - INFO - Default house data populated
+2025-07-27 19:16:53,063 - database - INFO - Database initialized successfully
+2025-07-27 19:16:53,066 - commands - INFO - Commands setup completed successfully
+2025-07-27 19:16:53,066 - discord.client - INFO - logging in using static token
+2025-07-27 19:16:53,552 - __main__ - INFO - Setting up background tasks...
+2025-07-27 19:16:53,795 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ab1f41fc8a20d59f8b216bd357e5cab8).
+2025-07-27 19:16:55,828 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 19:16:55,828 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 19:16:55,842 - economy - INFO - Applied 51 gold in debt interest to 1 debts
+2025-07-27 19:34:32,890 - discord.gateway - INFO - Shard ID None has successfully RESUMED session ab1f41fc8a20d59f8b216bd357e5cab8.
+2025-07-27 19:40:36,904 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 19:40:36,905 - database - INFO - Database tables created successfully
+2025-07-27 19:40:36,922 - database - INFO - Debt created: Stark owes Lannister 500,000 gold
+2025-07-27 19:40:36,923 - database - INFO - Debt created: Targaryen owes Tyrell 200,000 gold
+2025-07-27 19:40:36,923 - database - INFO - Debt created: Greyjoy owes Lannister 300,000 gold
+2025-07-27 19:40:36,923 - database - INFO - Debt created: Tully owes Tyrell 800,000 gold
+2025-07-27 19:40:36,923 - database - INFO - Debt created: Bolton owes Lannister 400,000 gold
+2025-07-27 19:40:36,923 - database - INFO - Debt created: Martell owes Tyrell 100,000 gold
+2025-07-27 19:40:36,942 - database - INFO - Default house data populated
+2025-07-27 19:40:36,942 - database - INFO - Database initialized successfully
+2025-07-27 19:40:36,945 - commands - INFO - Commands setup completed successfully
+2025-07-27 19:40:36,945 - discord.client - INFO - logging in using static token
+2025-07-27 19:40:37,635 - __main__ - INFO - Setting up background tasks...
+2025-07-27 19:40:37,857 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fca804a5dd0f8360a784e3a6fe66eb04).
+2025-07-27 19:40:39,900 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 19:40:39,900 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 19:40:39,944 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-07-27 19:47:14,045 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 19:47:14,047 - database - INFO - Database tables created successfully
+2025-07-27 19:47:14,098 - database - INFO - Default house data populated
+2025-07-27 19:47:14,099 - database - INFO - Database initialized successfully
+2025-07-27 19:47:14,101 - commands - INFO - Commands setup completed successfully
+2025-07-27 19:47:14,101 - discord.client - INFO - logging in using static token
+2025-07-27 19:47:14,569 - __main__ - INFO - Setting up background tasks...
+2025-07-27 19:47:14,957 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 647b9431c954bdd477e854889dfbdec8).
+2025-07-27 19:47:16,991 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 19:47:16,991 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 19:47:17,009 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-07-27 19:47:17,538 - commands - ERROR - Send letter error: 400 Bad Request (error code: 50035): Invalid Form Body
+In embeds.0.fields.3.value: Must be 1024 or fewer in length.
+2025-07-27 19:47:59,979 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 19:47:59,989 - database - INFO - Database tables created successfully
+2025-07-27 19:48:00,044 - database - INFO - Default house data populated
+2025-07-27 19:48:00,055 - database - INFO - Database initialized successfully
+2025-07-27 19:48:00,058 - commands - INFO - Commands setup completed successfully
+2025-07-27 19:48:00,058 - discord.client - INFO - logging in using static token
+2025-07-27 19:48:00,571 - __main__ - INFO - Setting up background tasks...
+2025-07-27 19:48:00,771 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2a9f22b231e5e7f3f4b89271267b0c1d).
+2025-07-27 19:48:02,803 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 19:48:02,803 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 19:48:02,817 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-07-27 19:51:39,676 - commands - ERROR - Show debts error: tuple index out of range
+2025-07-27 19:53:10,568 - commands - ERROR - Show debts error: tuple index out of range
+2025-07-27 19:53:30,511 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-27 19:53:30,513 - database - INFO - Database tables created successfully
+2025-07-27 19:53:30,572 - database - INFO - Default house data populated
+2025-07-27 19:53:30,572 - database - INFO - Database initialized successfully
+2025-07-27 19:53:30,576 - commands - INFO - Commands setup completed successfully
+2025-07-27 19:53:30,576 - discord.client - INFO - logging in using static token
+2025-07-27 19:53:31,386 - __main__ - INFO - Setting up background tasks...
+2025-07-27 19:53:31,775 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 926e8a1a3124ba35b9ff21d380274b4f).
+2025-07-27 19:53:33,804 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-07-27 19:53:33,805 - __main__ - INFO - Bot is in 3 guilds
+2025-07-27 19:53:33,819 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 20:11:54,218 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 20:11:54,342 - database - INFO - Database tables created successfully
+2025-08-02 20:11:54,342 - database - ERROR - Database initialization error: table alliances has no column named army_quality
+2025-08-02 20:12:52,483 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 20:12:52,531 - database - INFO - Added army_quality column to alliances table
+2025-08-02 20:12:52,532 - database - INFO - Database tables created successfully
+2025-08-02 20:12:52,551 - database - INFO - Default house data populated
+2025-08-02 20:12:52,551 - database - INFO - Database initialized successfully
+2025-08-02 20:12:52,552 - discord.client - INFO - logging in using static token
+2025-08-02 20:12:53,738 - __main__ - INFO - Setting up background tasks...
+2025-08-02 20:12:54,417 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 52a5f1c7883be01fa55438fc9bfb71f1).
+2025-08-02 20:12:56,908 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 20:12:56,908 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 20:12:56,930 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 20:24:51,636 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 20:24:51,637 - database - INFO - Database tables created successfully
+2025-08-02 20:24:51,675 - database - INFO - Default house data populated
+2025-08-02 20:24:51,676 - database - INFO - Database initialized successfully
+2025-08-02 20:24:51,677 - discord.client - INFO - logging in using static token
+2025-08-02 20:24:52,558 - __main__ - INFO - Setting up background tasks...
+2025-08-02 20:24:52,979 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 20:24:52,982 - database - INFO - Database tables created successfully
+2025-08-02 20:24:53,000 - database - INFO - Default house data populated
+2025-08-02 20:24:53,001 - database - INFO - Database initialized successfully
+2025-08-02 20:24:53,002 - discord.client - INFO - logging in using static token
+2025-08-02 20:24:53,270 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 12572c0fbd5c0eeb40377f621af7bdc2).
+2025-08-02 20:24:54,138 - __main__ - INFO - Setting up background tasks...
+2025-08-02 20:24:54,813 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 484f779d59e8cdae219914a5b0cc4722).
+2025-08-02 20:24:55,506 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 20:24:55,506 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 20:24:55,525 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 20:24:57,167 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 20:24:57,167 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 20:24:57,188 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 20:32:22,725 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 20:32:22,781 - database - INFO - Database tables created successfully
+2025-08-02 20:32:22,802 - database - INFO - Default house data populated
+2025-08-02 20:32:22,802 - database - INFO - Database initialized successfully
+2025-08-02 20:32:22,804 - discord.client - INFO - logging in using static token
+2025-08-02 20:32:23,612 - __main__ - INFO - Setting up background tasks...
+2025-08-02 20:32:24,396 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 77154d0bb899329fc39d81955084d215).
+2025-08-02 20:32:26,770 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 20:32:26,770 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 20:32:26,805 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 20:33:55,850 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 20:33:55,851 - database - INFO - Database tables created successfully
+2025-08-02 20:33:55,900 - database - INFO - Default house data populated
+2025-08-02 20:33:55,900 - database - INFO - Database initialized successfully
+2025-08-02 20:33:55,902 - discord.client - INFO - logging in using static token
+2025-08-02 20:33:56,718 - __main__ - INFO - Setting up background tasks...
+2025-08-02 20:33:57,427 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c3975d1e47d1c874463a58cc2753b9dc).
+2025-08-02 20:33:59,687 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 20:33:59,687 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 20:33:59,745 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 20:41:50,821 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 20:41:50,823 - database - INFO - Database tables created successfully
+2025-08-02 20:41:50,861 - database - INFO - Default house data populated
+2025-08-02 20:41:50,862 - database - INFO - Database initialized successfully
+2025-08-02 20:41:50,863 - discord.client - INFO - logging in using static token
+2025-08-02 20:41:51,745 - __main__ - INFO - Setting up background tasks...
+2025-08-02 20:41:52,444 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b2513840b12c655b3fe9dffb6990ce26).
+2025-08-02 20:41:54,490 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 20:41:54,490 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 20:41:54,516 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 20:58:50,431 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 20:58:50,433 - database - INFO - Database tables created successfully
+2025-08-02 20:58:50,484 - database - INFO - Default house data populated
+2025-08-02 20:58:50,484 - database - INFO - Database initialized successfully
+2025-08-02 20:58:50,489 - discord.client - INFO - logging in using static token
+2025-08-02 20:58:51,881 - __main__ - INFO - Setting up background tasks...
+2025-08-02 20:58:52,701 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bbf154decafe389e72d93107bef52e4a).
+2025-08-02 20:58:55,052 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 20:58:55,052 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 20:58:55,077 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 21:04:43,568 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 21:04:43,571 - database - INFO - Database tables created successfully
+2025-08-02 21:04:43,625 - database - INFO - Default house data populated
+2025-08-02 21:04:43,626 - database - INFO - Database initialized successfully
+2025-08-02 21:05:16,485 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 21:05:16,489 - database - INFO - Database tables created successfully
+2025-08-02 21:05:16,535 - database - INFO - Default house data populated
+2025-08-02 21:05:16,535 - database - INFO - Database initialized successfully
+2025-08-02 21:05:16,540 - discord.client - INFO - logging in using static token
+2025-08-02 21:05:17,601 - __main__ - INFO - Setting up background tasks...
+2025-08-02 21:05:18,356 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 577b128b3bb488e3e3024ed894500b84).
+2025-08-02 21:05:20,678 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 21:05:20,678 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 21:05:20,704 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 21:25:27,573 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 21:25:27,590 - database - INFO - Database tables created successfully
+2025-08-02 21:25:27,640 - database - INFO - Default house data populated
+2025-08-02 21:25:27,640 - database - INFO - Database initialized successfully
+2025-08-02 21:25:27,642 - discord.client - INFO - logging in using static token
+2025-08-02 21:25:28,512 - __main__ - INFO - Setting up background tasks...
+2025-08-02 21:25:29,333 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5ff5c471f5aa4e801b9efdf0a7b82884).
+2025-08-02 21:25:31,698 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 21:25:31,698 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 21:25:31,715 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 21:31:12,716 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 21:31:12,718 - database - INFO - Database tables created successfully
+2025-08-02 21:31:12,734 - database - INFO - Default house data populated
+2025-08-02 21:31:12,734 - database - INFO - Database initialized successfully
+2025-08-02 21:31:12,737 - discord.client - INFO - logging in using static token
+2025-08-02 21:31:13,637 - __main__ - INFO - Setting up background tasks...
+2025-08-02 21:31:14,433 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f685116e311f36becbaa9b80ab85feec).
+2025-08-02 21:31:16,567 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 21:31:16,567 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 21:31:16,586 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 21:31:31,873 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 21:31:31,875 - database - INFO - Database tables created successfully
+2025-08-02 21:31:31,897 - database - INFO - Default house data populated
+2025-08-02 21:31:31,897 - database - INFO - Database initialized successfully
+2025-08-02 21:31:31,899 - discord.client - INFO - logging in using static token
+2025-08-02 21:31:32,723 - __main__ - INFO - Setting up background tasks...
+2025-08-02 21:31:32,728 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.66.34:5000
+2025-08-02 21:31:32,728 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-02 21:31:32,852 - werkzeug - INFO - 172.31.66.34 - - [02/Aug/2025 21:31:32] "GET / HTTP/1.1" 200 -
+2025-08-02 21:31:33,510 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f56f4286c39f1113855eb4ae24f07543).
+2025-08-02 21:31:35,862 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 21:31:35,862 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 21:31:35,934 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-02 21:32:03,359 - werkzeug - INFO - 172.31.66.34 - - [02/Aug/2025 21:32:03] "GET / HTTP/1.1" 200 -
+2025-08-02 21:32:03,647 - werkzeug - INFO - 172.31.66.34 - - [02/Aug/2025 21:32:03] "GET / HTTP/1.1" 200 -
+2025-08-02 21:33:04,586 - werkzeug - INFO - 172.31.66.34 - - [02/Aug/2025 21:33:04] "GET / HTTP/1.1" 200 -
+2025-08-02 21:33:04,936 - werkzeug - INFO - 172.31.66.34 - - [02/Aug/2025 21:33:04] "GET / HTTP/1.1" 200 -
+2025-08-02 21:33:05,900 - werkzeug - INFO - 172.31.66.34 - - [02/Aug/2025 21:33:05] "GET / HTTP/1.1" 200 -
+2025-08-02 21:51:53,083 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-02 21:51:53,096 - database - INFO - Database tables created successfully
+2025-08-02 21:51:53,120 - database - INFO - Default house data populated
+2025-08-02 21:51:53,121 - database - INFO - Database initialized successfully
+2025-08-02 21:51:53,137 - discord.client - INFO - logging in using static token
+2025-08-02 21:51:53,951 - __main__ - INFO - Setting up background tasks...
+2025-08-02 21:51:54,697 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 71d9d92345f783f114317dda59bf0c31).
+2025-08-02 21:51:56,839 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-02 21:51:56,839 - __main__ - INFO - Bot is in 3 guilds
+2025-08-02 21:51:56,904 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-03 19:23:39,543 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-03 19:26:42,558 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-03 19:27:14,201 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-03 19:27:24,927 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-03 19:28:30,158 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 19:28:30,160 - database - INFO - Database tables created successfully
+2025-08-03 19:28:30,222 - database - INFO - Default house data populated
+2025-08-03 19:28:30,223 - database - INFO - Database initialized successfully
+2025-08-03 19:28:30,228 - discord.client - INFO - logging in using static token
+2025-08-03 19:28:31,466 - __main__ - INFO - Setting up background tasks...
+2025-08-03 19:28:31,467 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-03 19:28:32,262 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ab4e1f20d93d9330936bef414426698e).
+2025-08-03 19:28:34,669 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-03 19:28:34,669 - __main__ - INFO - Bot is in 3 guilds
+2025-08-03 19:28:34,696 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-03 20:28:34,734 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-03 20:33:45,570 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 20:33:45,573 - database - INFO - Database tables created successfully
+2025-08-03 20:33:45,627 - database - INFO - Default house data populated
+2025-08-03 20:33:45,628 - database - INFO - Database initialized successfully
+2025-08-03 20:33:45,630 - discord.client - INFO - logging in using static token
+2025-08-03 20:33:46,488 - __main__ - INFO - Setting up background tasks...
+2025-08-03 20:33:46,491 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-03 20:33:46,505 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.107.162:8080
+2025-08-03 20:33:46,506 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-03 20:33:47,186 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: cbcece00bef5325e93f6ed86586e489b).
+2025-08-03 20:33:49,535 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-03 20:33:49,535 - __main__ - INFO - Bot is in 3 guilds
+2025-08-03 20:33:49,559 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-03 20:46:22,539 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 20:46:22,542 - database - INFO - Database tables created successfully
+2025-08-03 20:46:22,588 - database - INFO - Default house data populated
+2025-08-03 20:46:22,589 - database - INFO - Database initialized successfully
+2025-08-03 20:46:22,594 - discord.client - INFO - logging in using static token
+2025-08-03 20:46:23,610 - __main__ - INFO - Setting up background tasks...
+2025-08-03 20:46:23,611 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-03 20:46:23,617 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.107.162:8080
+2025-08-03 20:46:23,617 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-03 20:46:24,391 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5322d9e38e075eae8bd6acdecea1691d).
+2025-08-03 20:46:26,760 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-03 20:46:26,760 - __main__ - INFO - Bot is in 3 guilds
+2025-08-03 20:46:26,795 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-03 20:53:07,435 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 20:53:07,443 - database - INFO - Database tables created successfully
+2025-08-03 20:53:07,508 - database - INFO - Default house data populated
+2025-08-03 20:53:07,509 - database - INFO - Database initialized successfully
+2025-08-03 20:53:07,512 - discord.client - INFO - logging in using static token
+2025-08-03 20:53:08,452 - __main__ - INFO - Setting up background tasks...
+2025-08-03 20:53:08,453 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-03 20:53:08,477 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.91.130:8080
+2025-08-03 20:53:08,478 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-03 20:53:09,338 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 28d9fc376fa958c170c95ae7eabb1f19).
+2025-08-03 20:53:11,684 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-03 20:53:11,684 - __main__ - INFO - Bot is in 3 guilds
+2025-08-03 20:53:11,701 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-03 22:17:16,302 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-03 22:17:16,311 - database - INFO - Database tables created successfully
+2025-08-03 22:17:16,361 - database - INFO - Default house data populated
+2025-08-03 22:17:16,362 - database - INFO - Database initialized successfully
+2025-08-03 22:17:16,365 - discord.client - INFO - logging in using static token
+2025-08-03 22:17:17,180 - __main__ - INFO - Setting up background tasks...
+2025-08-03 22:17:17,181 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-03 22:17:17,185 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.123.34:8080
+2025-08-03 22:17:17,185 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-03 22:17:17,882 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 38f00d3254a502a3fc17cc67a2c69d4b).
+2025-08-03 22:17:20,254 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-03 22:17:20,254 - __main__ - INFO - Bot is in 3 guilds
+2025-08-03 22:17:20,314 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 10:40:34,897 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 10:40:34,922 - database - INFO - Database tables created successfully
+2025-08-04 10:40:34,959 - database - INFO - Default house data populated
+2025-08-04 10:40:34,960 - database - INFO - Database initialized successfully
+2025-08-04 10:40:34,964 - discord.client - INFO - logging in using static token
+2025-08-04 10:40:35,937 - __main__ - INFO - Setting up background tasks...
+2025-08-04 10:40:35,937 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 10:40:35,941 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.108.162:8080
+2025-08-04 10:40:35,942 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 10:40:36,666 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d87111fdf08c0691bc72f86b8468c82f).
+2025-08-04 10:40:39,011 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 10:40:39,012 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 10:40:39,031 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 10:41:39,045 - werkzeug - INFO - 127.0.0.1 - - [04/Aug/2025 10:41:39] "HEAD / HTTP/1.1" 200 -
+2025-08-04 10:53:36,079 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 10:53:36,082 - database - INFO - Database tables created successfully
+2025-08-04 10:53:36,122 - database - INFO - Default house data populated
+2025-08-04 10:53:36,123 - database - INFO - Database initialized successfully
+2025-08-04 10:53:36,126 - discord.client - INFO - logging in using static token
+2025-08-04 10:53:36,987 - __main__ - INFO - Setting up background tasks...
+2025-08-04 10:53:36,988 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 10:53:36,997 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.108.162:5000
+2025-08-04 10:53:36,997 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 10:53:37,712 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 71450e81b88b51c04957dc6122846afd).
+2025-08-04 10:53:39,732 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 10:53:39,732 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 10:53:39,758 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 10:56:57,935 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 10:56:57,938 - database - INFO - Database tables created successfully
+2025-08-04 10:56:58,005 - database - INFO - Default house data populated
+2025-08-04 10:56:58,006 - database - INFO - Database initialized successfully
+2025-08-04 10:56:58,011 - discord.client - INFO - logging in using static token
+2025-08-04 10:56:58,961 - __main__ - INFO - Setting up background tasks...
+2025-08-04 10:56:58,964 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 10:56:59,694 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1a9325a91944a674b56be694f65ca91e).
+2025-08-04 10:56:59,904 - werkzeug - INFO - 172.31.108.162 - - [04/Aug/2025 10:56:59] "GET / HTTP/1.1" 200 -
+2025-08-04 10:57:01,896 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 10:57:01,896 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 10:57:01,925 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 10:59:05,080 - werkzeug - INFO - 172.31.108.162 - - [04/Aug/2025 10:59:05] "GET / HTTP/1.1" 200 -
+2025-08-04 11:39:01,170 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 11:39:01,275 - database - INFO - Database tables created successfully
+2025-08-04 11:39:01,350 - database - INFO - Default house data populated
+2025-08-04 11:39:01,351 - database - INFO - Database initialized successfully
+2025-08-04 11:39:01,356 - discord.client - INFO - logging in using static token
+2025-08-04 11:39:02,245 - __main__ - INFO - Setting up background tasks...
+2025-08-04 11:39:02,246 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 11:39:02,261 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.104.162:8080
+2025-08-04 11:39:02,262 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 11:39:02,964 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 5230de3be5f3bde896f6220feb12bbec).
+2025-08-04 11:39:05,006 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 11:39:05,007 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 11:39:05,021 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 11:49:45,254 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 11:49:45,265 - database - INFO - Database tables created successfully
+2025-08-04 11:49:45,328 - database - INFO - Default house data populated
+2025-08-04 11:49:45,329 - database - INFO - Database initialized successfully
+2025-08-04 11:49:45,335 - discord.client - INFO - logging in using static token
+2025-08-04 11:49:46,204 - __main__ - INFO - Setting up background tasks...
+2025-08-04 11:49:46,205 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 11:49:46,214 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.104.162:8080
+2025-08-04 11:49:46,214 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 11:49:46,894 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 948868aa75b1fdcd9b3bb1aa63b5f319).
+2025-08-04 11:49:48,970 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 11:49:48,971 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 11:49:48,990 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 11:51:08,885 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 11:51:08,887 - database - INFO - Database tables created successfully
+2025-08-04 11:51:08,949 - database - INFO - Default house data populated
+2025-08-04 11:51:08,949 - database - INFO - Database initialized successfully
+2025-08-04 11:51:08,953 - discord.client - INFO - logging in using static token
+2025-08-04 11:51:10,052 - __main__ - INFO - Setting up background tasks...
+2025-08-04 11:51:10,053 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 11:51:10,057 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.104.162:8080
+2025-08-04 11:51:10,058 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 11:51:10,935 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2ba44155f73b02dd983c9643b6b766b3).
+2025-08-04 11:51:13,287 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 11:51:13,287 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 11:51:13,350 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 11:52:57,724 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 11:52:57,726 - database - INFO - Database tables created successfully
+2025-08-04 11:52:57,781 - database - INFO - Default house data populated
+2025-08-04 11:52:57,781 - database - INFO - Database initialized successfully
+2025-08-04 11:52:57,785 - discord.client - INFO - logging in using static token
+2025-08-04 11:52:58,648 - __main__ - INFO - Setting up background tasks...
+2025-08-04 11:52:58,648 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 11:52:58,661 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.104.162:5000
+2025-08-04 11:52:58,661 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 11:55:49,723 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 11:55:49,725 - database - INFO - Database tables created successfully
+2025-08-04 11:55:49,765 - database - INFO - Default house data populated
+2025-08-04 11:55:49,766 - database - INFO - Database initialized successfully
+2025-08-04 11:55:49,770 - discord.client - INFO - logging in using static token
+2025-08-04 11:55:50,657 - __main__ - INFO - Setting up background tasks...
+2025-08-04 11:55:50,663 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 11:55:50,671 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.104.162:8080
+2025-08-04 11:55:50,671 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 11:55:51,410 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 8ba851e5a51e6b4bb2b9a11c280931a8).
+2025-08-04 11:55:53,455 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 11:55:53,455 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 11:55:53,470 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 12:05:52,827 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 8ba851e5a51e6b4bb2b9a11c280931a8.
+2025-08-04 12:13:35,839 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:13:35,841 - database - INFO - Database tables created successfully
+2025-08-04 12:13:35,929 - database - INFO - Default house data populated
+2025-08-04 12:13:35,930 - database - INFO - Database initialized successfully
+2025-08-04 12:13:35,934 - discord.client - INFO - logging in using static token
+2025-08-04 12:13:36,798 - __main__ - INFO - Setting up background tasks...
+2025-08-04 12:13:36,799 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 12:13:36,803 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.104.162:5000
+2025-08-04 12:13:36,803 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 12:13:37,078 - werkzeug - INFO - 172.31.104.162 - - [04/Aug/2025 12:13:37] "GET / HTTP/1.1" 200 -
+2025-08-04 12:13:37,482 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 30b4f76f56cb58009ba1e6118ed90663).
+2025-08-04 12:13:39,527 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 12:13:39,528 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 12:13:39,543 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 12:13:40,444 - werkzeug - INFO - 172.31.104.162 - - [04/Aug/2025 12:13:40] "GET / HTTP/1.1" 200 -
+2025-08-04 12:20:27,790 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:20:27,950 - database - INFO - Database tables created successfully
+2025-08-04 12:20:27,968 - database - INFO - Default house data populated
+2025-08-04 12:20:27,968 - database - INFO - Database initialized successfully
+2025-08-04 12:26:06,519 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:26:06,521 - database - INFO - Database tables created successfully
+2025-08-04 12:26:06,640 - database - INFO - Default house data populated
+2025-08-04 12:26:06,640 - database - INFO - Database initialized successfully
+2025-08-04 12:30:02,088 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:30:02,090 - database - INFO - Database tables created successfully
+2025-08-04 12:30:02,138 - database - INFO - Default house data populated
+2025-08-04 12:30:02,138 - database - INFO - Database initialized successfully
+2025-08-04 12:30:06,929 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:30:06,930 - database - INFO - Database tables created successfully
+2025-08-04 12:30:06,987 - database - INFO - Default house data populated
+2025-08-04 12:30:06,987 - database - INFO - Database initialized successfully
+2025-08-04 12:30:13,227 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:30:13,234 - database - INFO - Database tables created successfully
+2025-08-04 12:30:13,429 - database - INFO - Default house data populated
+2025-08-04 12:30:13,430 - database - INFO - Database initialized successfully
+2025-08-04 12:30:14,659 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:30:14,664 - database - INFO - Database tables created successfully
+2025-08-04 12:30:14,733 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:30:14,740 - database - INFO - Database tables created successfully
+2025-08-04 12:30:14,793 - database - INFO - Default house data populated
+2025-08-04 12:30:14,793 - database - INFO - Database initialized successfully
+2025-08-04 12:30:14,846 - database - INFO - Default house data populated
+2025-08-04 12:30:14,847 - database - INFO - Database initialized successfully
+2025-08-04 12:30:15,030 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:30:15,042 - database - INFO - Database tables created successfully
+2025-08-04 12:30:15,151 - database - INFO - Default house data populated
+2025-08-04 12:30:15,151 - database - INFO - Database initialized successfully
+2025-08-04 12:30:22,527 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:30:22,529 - database - INFO - Database tables created successfully
+2025-08-04 12:30:22,589 - database - INFO - Default house data populated
+2025-08-04 12:30:22,589 - database - INFO - Database initialized successfully
+2025-08-04 12:30:33,397 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:30:33,399 - database - INFO - Database tables created successfully
+2025-08-04 12:30:33,607 - database - INFO - Default house data populated
+2025-08-04 12:30:33,607 - database - INFO - Database initialized successfully
+2025-08-04 12:30:41,560 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:30:41,562 - database - INFO - Database tables created successfully
+2025-08-04 12:30:41,766 - database - INFO - Default house data populated
+2025-08-04 12:30:41,766 - database - INFO - Database initialized successfully
+2025-08-04 12:31:32,249 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:31:32,254 - database - INFO - Database tables created successfully
+2025-08-04 12:31:32,313 - database - INFO - Default house data populated
+2025-08-04 12:31:32,313 - database - INFO - Database initialized successfully
+2025-08-04 12:32:07,692 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:32:07,694 - database - INFO - Database tables created successfully
+2025-08-04 12:32:07,745 - database - INFO - Default house data populated
+2025-08-04 12:32:07,745 - database - INFO - Database initialized successfully
+2025-08-04 12:47:16,718 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-04 12:47:59,301 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:47:59,306 - database - INFO - Database tables created successfully
+2025-08-04 12:47:59,440 - database - INFO - Default house data populated
+2025-08-04 12:47:59,440 - database - INFO - Database initialized successfully
+2025-08-04 12:48:01,947 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:48:01,952 - database - INFO - Database tables created successfully
+2025-08-04 12:48:02,016 - database - INFO - Default house data populated
+2025-08-04 12:48:02,016 - database - INFO - Database initialized successfully
+2025-08-04 12:49:26,057 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:49:26,059 - database - INFO - Database tables created successfully
+2025-08-04 12:49:26,120 - database - INFO - Default house data populated
+2025-08-04 12:49:26,120 - database - INFO - Database initialized successfully
+2025-08-04 12:55:52,263 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 12:55:52,265 - database - INFO - Database tables created successfully
+2025-08-04 12:55:52,308 - database - INFO - Default house data populated
+2025-08-04 12:55:52,310 - database - INFO - Database initialized successfully
+2025-08-04 12:55:52,313 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 13:09:36,055 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 13:09:36,057 - database - INFO - Database tables created successfully
+2025-08-04 13:10:04,195 - database - INFO - Default house data populated
+2025-08-04 13:10:04,195 - database - INFO - Database initialized successfully
+2025-08-04 13:10:04,199 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 13:11:20,897 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 13:11:20,898 - database - INFO - Database tables created successfully
+2025-08-04 13:11:20,926 - database - INFO - Default house data populated
+2025-08-04 13:11:20,928 - database - INFO - Database initialized successfully
+2025-08-04 13:11:20,931 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 13:19:50,667 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 13:19:50,668 - database - INFO - Database tables created successfully
+2025-08-04 13:19:50,755 - database - INFO - Default house data populated
+2025-08-04 13:19:50,755 - database - INFO - Database initialized successfully
+2025-08-04 13:19:50,759 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 13:23:54,114 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 13:23:54,116 - database - INFO - Database tables created successfully
+2025-08-04 13:23:54,170 - database - INFO - Default house data populated
+2025-08-04 13:23:54,170 - database - INFO - Database initialized successfully
+2025-08-04 13:23:54,174 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 13:23:55,697 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 13:23:55,698 - database - INFO - Database tables created successfully
+2025-08-04 13:23:55,822 - database - INFO - Default house data populated
+2025-08-04 13:23:55,823 - database - INFO - Database initialized successfully
+2025-08-04 13:23:55,848 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 13:35:41,509 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 13:35:41,514 - database - INFO - Database tables created successfully
+2025-08-04 13:35:41,544 - database - INFO - Default house data populated
+2025-08-04 13:35:41,544 - database - INFO - Database initialized successfully
+2025-08-04 13:35:41,548 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 13:45:11,109 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 13:45:11,111 - database - INFO - Database tables created successfully
+2025-08-04 13:45:11,166 - database - INFO - Default house data populated
+2025-08-04 13:45:11,167 - database - INFO - Database initialized successfully
+2025-08-04 13:45:11,171 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 13:51:42,652 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 13:51:42,654 - database - INFO - Database tables created successfully
+2025-08-04 13:51:42,707 - database - INFO - Default house data populated
+2025-08-04 13:51:42,707 - database - INFO - Database initialized successfully
+2025-08-04 13:51:42,710 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 13:51:48,905 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 13:51:48,907 - database - INFO - Database tables created successfully
+2025-08-04 13:51:48,964 - database - INFO - Default house data populated
+2025-08-04 13:51:48,965 - database - INFO - Database initialized successfully
+2025-08-04 13:51:48,968 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 13:59:44,852 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 13:59:44,855 - database - INFO - Database tables created successfully
+2025-08-04 13:59:45,004 - database - INFO - Default house data populated
+2025-08-04 13:59:45,004 - database - INFO - Database initialized successfully
+2025-08-04 13:59:45,050 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 14:00:50,280 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:00:50,282 - database - INFO - Database tables created successfully
+2025-08-04 14:00:50,353 - database - INFO - Default house data populated
+2025-08-04 14:00:50,354 - database - INFO - Database initialized successfully
+2025-08-04 14:00:50,358 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 14:07:03,953 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-04 14:07:03,956 - __main__ - INFO - Please set your Discord bot token in the Secrets tab
+2025-08-04 14:10:23,836 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:10:23,842 - database - INFO - Database tables created successfully
+2025-08-04 14:10:23,876 - database - INFO - Default house data populated
+2025-08-04 14:10:23,877 - database - INFO - Database initialized successfully
+2025-08-04 14:10:23,881 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 14:12:07,989 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:12:07,991 - database - INFO - Database tables created successfully
+2025-08-04 14:12:08,040 - database - INFO - Default house data populated
+2025-08-04 14:12:08,040 - database - INFO - Database initialized successfully
+2025-08-04 14:12:08,044 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 14:13:21,412 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:13:21,415 - database - INFO - Database tables created successfully
+2025-08-04 14:13:21,461 - database - INFO - Default house data populated
+2025-08-04 14:13:21,462 - database - INFO - Database initialized successfully
+2025-08-04 14:13:21,468 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:13:21,468 - discord.client - INFO - logging in using static token
+2025-08-04 14:13:22,396 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:13:22,397 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 14:13:22,405 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.88.2:5000
+2025-08-04 14:13:22,405 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:13:23,164 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b083383b8261c3375da038c8a694a3d2).
+2025-08-04 14:13:24,047 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:13:24] "GET / HTTP/1.1" 200 -
+2025-08-04 14:13:25,380 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 14:13:25,380 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 14:13:25,406 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 14:13:36,446 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:13:36] "GET / HTTP/1.1" 200 -
+2025-08-04 14:15:21,842 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:15:21,846 - database - INFO - Database tables created successfully
+2025-08-04 14:15:21,899 - database - INFO - Default house data populated
+2025-08-04 14:15:21,899 - database - INFO - Database initialized successfully
+2025-08-04 14:15:21,899 - __main__ - ERROR - Unexpected error: 'GameOfThronesBot' object has no attribute 'slash_command'
+2025-08-04 14:16:15,033 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:16:15,035 - database - INFO - Database tables created successfully
+2025-08-04 14:16:15,109 - database - INFO - Default house data populated
+2025-08-04 14:16:15,109 - database - INFO - Database initialized successfully
+2025-08-04 14:16:15,117 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:16:15,117 - discord.client - INFO - logging in using static token
+2025-08-04 14:16:16,120 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:16:16,129 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.88.2:5000
+2025-08-04 14:16:16,129 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:16:16,599 - __main__ - INFO - Synced 1 slash commands
+2025-08-04 14:16:16,599 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 14:16:17,049 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:16:17] "GET / HTTP/1.1" 200 -
+2025-08-04 14:16:17,299 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c4d2546fcd78d39c7e7b2e6513425f6e).
+2025-08-04 14:16:19,431 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 14:16:19,432 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 14:16:19,451 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 14:19:49,195 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:19:49,197 - database - INFO - Database tables created successfully
+2025-08-04 14:19:49,242 - database - INFO - Default house data populated
+2025-08-04 14:19:49,243 - database - INFO - Database initialized successfully
+2025-08-04 14:19:49,251 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:19:49,251 - discord.client - INFO - logging in using static token
+2025-08-04 14:19:50,266 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:19:50,271 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.88.2:5000
+2025-08-04 14:19:50,271 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:19:50,741 - __main__ - INFO - Synced 1 slash commands
+2025-08-04 14:19:50,742 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 14:19:51,507 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7b307037ff30c74bf53753c10b9e577e).
+2025-08-04 14:19:51,779 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:19:51] "GET / HTTP/1.1" 200 -
+2025-08-04 14:19:53,586 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 14:19:53,586 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 14:19:53,667 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 14:20:20,309 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:20:20] "GET / HTTP/1.1" 200 -
+2025-08-04 14:20:22,119 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:20:22] "GET / HTTP/1.1" 200 -
+2025-08-04 14:21:21,009 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:21:21] "GET / HTTP/1.1" 200 -
+2025-08-04 14:25:13,810 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:25:13,812 - database - INFO - Database tables created successfully
+2025-08-04 14:25:13,850 - database - INFO - Default house data populated
+2025-08-04 14:25:13,850 - database - INFO - Database initialized successfully
+2025-08-04 14:25:13,859 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:25:13,860 - commands - INFO - Total commands available: 104
+2025-08-04 14:25:13,865 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:25:13,865 - discord.client - INFO - logging in using static token
+2025-08-04 14:25:14,799 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:25:14,809 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.88.2:8080
+2025-08-04 14:25:14,809 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:25:15,397 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 14:25:15,397 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 14:25:16,075 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d33af1c42ac7b79707deb0d70fdbbcb8).
+2025-08-04 14:25:16,651 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:25:16] "GET / HTTP/1.1" 200 -
+2025-08-04 14:25:18,339 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 14:25:18,339 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 14:25:18,549 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 14:25:18,599 - performance_optimizer - ERROR - Database optimization error: no such table: main.characters
+2025-08-04 14:25:18,600 - performance_optimizer - ERROR - Data cleanup error: no such column: created_at
+2025-08-04 14:25:18,600 - performance_optimizer - ERROR - Performance stats error: no such table: characters
+2025-08-04 14:25:18,600 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-04 14:26:41,399 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:26:41,401 - database - INFO - Database tables created successfully
+2025-08-04 14:26:41,450 - database - INFO - Default house data populated
+2025-08-04 14:26:41,451 - database - INFO - Database initialized successfully
+2025-08-04 14:26:41,456 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:26:41,457 - commands - INFO - Total commands available: 104
+2025-08-04 14:26:41,460 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:26:41,460 - discord.client - INFO - logging in using static token
+2025-08-04 14:26:42,306 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:26:42,311 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.88.2:5000
+2025-08-04 14:26:42,311 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:26:42,806 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 14:26:42,806 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 14:26:43,478 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 786b50330c436865941fb5dfe5839fb5).
+2025-08-04 14:26:43,789 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:26:43] "GET / HTTP/1.1" 200 -
+2025-08-04 14:26:45,515 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 14:26:45,515 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 14:26:45,591 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 14:26:45,592 - performance_optimizer - ERROR - Database optimization error: no such table: main.users
+2025-08-04 14:26:45,592 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 14:26:45,592 - performance_optimizer - ERROR - Performance stats error: no such table: users
+2025-08-04 14:26:45,592 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-04 14:27:13,591 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:27:13] "GET / HTTP/1.1" 200 -
+2025-08-04 14:28:13,270 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:28:13] "GET / HTTP/1.1" 200 -
+2025-08-04 14:32:57,018 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 786b50330c436865941fb5dfe5839fb5.
+2025-08-04 14:34:45,633 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:34:45,635 - database - INFO - Database tables created successfully
+2025-08-04 14:34:45,682 - database - INFO - Default house data populated
+2025-08-04 14:34:45,682 - database - INFO - Database initialized successfully
+2025-08-04 14:34:45,683 - __main__ - ERROR - Unexpected error: The alias help is already an existing command or alias.
+2025-08-04 14:36:35,627 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:36:35,630 - database - INFO - Database tables created successfully
+2025-08-04 14:36:35,681 - database - INFO - Default house data populated
+2025-08-04 14:36:35,681 - database - INFO - Database initialized successfully
+2025-08-04 14:36:35,690 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:36:35,690 - commands - INFO - Total commands available: 105
+2025-08-04 14:36:35,691 - __main__ - ERROR - Unexpected error: unterminated string literal (detected at line 56) (animations.py, line 56)
+2025-08-04 14:36:56,471 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:36:56,474 - database - INFO - Database tables created successfully
+2025-08-04 14:36:56,495 - database - INFO - Default house data populated
+2025-08-04 14:36:56,496 - database - INFO - Database initialized successfully
+2025-08-04 14:36:56,502 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:36:56,502 - commands - INFO - Total commands available: 105
+2025-08-04 14:36:56,504 - __main__ - ERROR - Unexpected error: unterminated string literal (detected at line 56) (animations.py, line 56)
+2025-08-04 14:37:09,781 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:37:09,784 - database - INFO - Database tables created successfully
+2025-08-04 14:37:09,813 - database - INFO - Default house data populated
+2025-08-04 14:37:09,814 - database - INFO - Database initialized successfully
+2025-08-04 14:37:09,835 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:37:09,835 - commands - INFO - Total commands available: 105
+2025-08-04 14:37:09,848 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:37:09,849 - discord.client - INFO - logging in using static token
+2025-08-04 14:37:10,896 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:37:10,906 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.88.2:8080
+2025-08-04 14:37:10,907 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:37:11,788 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 14:37:11,788 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 14:37:12,500 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f0455b10cb52d479d028355c9c44046a).
+2025-08-04 14:37:12,709 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:37:12] "GET / HTTP/1.1" 200 -
+2025-08-04 14:37:14,854 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 14:37:14,855 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 14:37:14,912 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 14:37:14,913 - performance_optimizer - ERROR - Database optimization error: no such table: main.users
+2025-08-04 14:37:14,913 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 14:37:14,913 - performance_optimizer - ERROR - Performance stats error: no such table: users
+2025-08-04 14:37:14,913 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-04 14:43:06,818 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:43:06] "GET / HTTP/1.1" 200 -
+2025-08-04 14:43:38,858 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:43:38] "GET / HTTP/1.1" 200 -
+2025-08-04 14:44:12,941 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:44:12] "GET / HTTP/1.1" 200 -
+2025-08-04 14:44:47,210 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:44:47] "GET / HTTP/1.1" 200 -
+2025-08-04 14:45:21,509 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:45:21] "GET / HTTP/1.1" 200 -
+2025-08-04 14:46:01,396 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:46:01] "GET / HTTP/1.1" 200 -
+2025-08-04 14:46:35,495 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:46:35] "GET / HTTP/1.1" 200 -
+2025-08-04 14:47:09,715 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:47:09] "GET / HTTP/1.1" 200 -
+2025-08-04 14:47:44,076 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:47:44] "GET / HTTP/1.1" 200 -
+2025-08-04 14:48:18,479 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:48:18] "GET / HTTP/1.1" 200 -
+2025-08-04 14:48:52,568 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:48:52] "GET / HTTP/1.1" 200 -
+2025-08-04 14:49:29,751 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:49:29] "GET / HTTP/1.1" 200 -
+2025-08-04 14:50:05,018 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:50:05] "GET / HTTP/1.1" 200 -
+2025-08-04 14:50:19,986 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:50:19,988 - database - INFO - Database tables created successfully
+2025-08-04 14:50:20,032 - database - INFO - Default house data populated
+2025-08-04 14:50:20,033 - database - INFO - Database initialized successfully
+2025-08-04 14:50:20,044 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:50:20,044 - commands - INFO - Total commands available: 105
+2025-08-04 14:50:20,049 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:50:20,050 - discord.client - INFO - logging in using static token
+2025-08-04 14:50:21,061 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:50:21,070 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.88.2:5000
+2025-08-04 14:50:21,070 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:50:21,740 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 14:50:21,740 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 14:50:22,451 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1cf38fe8d5d1ea4a1406faca74f7a989).
+2025-08-04 14:50:24,368 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:50:24] "GET / HTTP/1.1" 200 -
+2025-08-04 14:50:24,657 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 14:50:24,658 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 14:50:24,714 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 14:50:24,714 - performance_optimizer - ERROR - Database optimization error: no such table: main.users
+2025-08-04 14:50:24,715 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 14:50:24,715 - performance_optimizer - ERROR - Performance stats error: no such table: users
+2025-08-04 14:50:24,715 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-04 14:58:57,273 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:58:57,275 - database - INFO - Database tables created successfully
+2025-08-04 14:58:57,366 - database - INFO - Default house data populated
+2025-08-04 14:58:57,366 - database - INFO - Database initialized successfully
+2025-08-04 14:58:57,376 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:58:57,376 - commands - INFO - Total commands available: 104
+2025-08-04 14:58:57,377 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:58:57,377 - discord.client - INFO - logging in using static token
+2025-08-04 14:58:58,365 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:58:58,377 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:43373
+ * Running on http://172.31.88.2:43373
+2025-08-04 14:58:58,377 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:58:58,790 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 14:58:58,790 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 14:58:59,088 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:58:59,090 - database - INFO - Database tables created successfully
+2025-08-04 14:58:59,185 - database - INFO - Default house data populated
+2025-08-04 14:58:59,185 - database - INFO - Database initialized successfully
+2025-08-04 14:58:59,193 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:58:59,193 - commands - INFO - Total commands available: 104
+2025-08-04 14:58:59,194 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:58:59,194 - discord.client - INFO - logging in using static token
+2025-08-04 14:58:59,767 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3ea39f06bc912835e86893d32b39e8e5).
+2025-08-04 14:59:00,375 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:59:00,381 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:43013
+ * Running on http://172.31.88.2:43013
+2025-08-04 14:59:00,381 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:59:09,619 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:59:09,629 - database - INFO - Database tables created successfully
+2025-08-04 14:59:09,661 - database - INFO - Default house data populated
+2025-08-04 14:59:09,663 - database - INFO - Database initialized successfully
+2025-08-04 14:59:09,673 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:59:09,674 - commands - INFO - Total commands available: 104
+2025-08-04 14:59:09,675 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:59:09,675 - discord.client - INFO - logging in using static token
+2025-08-04 14:59:10,616 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:59:10,623 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.88.2:5000
+2025-08-04 14:59:10,623 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:59:10,961 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1398629156413116496/commands responded with 429. Retrying in 17.74 seconds.
+2025-08-04 14:59:12,193 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 14:59:12] "GET / HTTP/1.1" 200 -
+2025-08-04 14:59:33,932 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:59:33,936 - database - INFO - Database tables created successfully
+2025-08-04 14:59:34,047 - database - INFO - Default house data populated
+2025-08-04 14:59:34,048 - database - INFO - Database initialized successfully
+2025-08-04 14:59:34,060 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:59:34,060 - commands - INFO - Total commands available: 104
+2025-08-04 14:59:34,061 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:59:34,062 - discord.client - INFO - logging in using static token
+2025-08-04 14:59:34,326 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 14:59:34,328 - database - INFO - Database tables created successfully
+2025-08-04 14:59:34,350 - database - INFO - Default house data populated
+2025-08-04 14:59:34,350 - database - INFO - Database initialized successfully
+2025-08-04 14:59:34,356 - commands - INFO - All commands have been set up successfully
+2025-08-04 14:59:34,356 - commands - INFO - Total commands available: 104
+2025-08-04 14:59:34,357 - __main__ - INFO - Starting Discord bot...
+2025-08-04 14:59:34,357 - discord.client - INFO - logging in using static token
+2025-08-04 14:59:35,137 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:59:35,148 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:45541
+ * Running on http://172.31.88.2:45541
+2025-08-04 14:59:35,149 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:59:35,236 - __main__ - INFO - Setting up background tasks...
+2025-08-04 14:59:35,243 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:46207
+ * Running on http://172.31.88.2:46207
+2025-08-04 14:59:35,243 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 14:59:35,473 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1398629156413116496/commands responded with 429. Retrying in 23.23 seconds.
+2025-08-04 14:59:35,628 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1398629156413116496/commands responded with 429. Retrying in 23.08 seconds.
+2025-08-04 14:59:59,080 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1398629156413116496/commands responded with 429. Retrying in 29.62 seconds.
+2025-08-04 15:00:13,851 - werkzeug - INFO - 172.31.88.2 - - [04/Aug/2025 15:00:13] "GET / HTTP/1.1" 200 -
+2025-08-04 15:00:28,967 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 15:00:28,968 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 15:00:29,636 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 689055480c29cf9acc3911a251e175f1).
+2025-08-04 15:00:31,725 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 15:00:31,726 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 15:00:31,804 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 15:00:31,804 - performance_optimizer - ERROR - Database optimization error: no such table: main.users
+2025-08-04 15:00:31,804 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 15:00:31,804 - performance_optimizer - ERROR - Performance stats error: no such table: users
+2025-08-04 15:00:31,805 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-04 15:00:58,862 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 15:00:58,863 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 15:00:59,691 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 9d027862d18d41b9c82501410d898ba2).
+2025-08-04 15:01:01,785 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 15:01:01,785 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 15:01:01,849 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 15:01:01,850 - performance_optimizer - ERROR - Database optimization error: no such table: main.users
+2025-08-04 15:01:01,850 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 15:01:01,850 - performance_optimizer - ERROR - Performance stats error: no such table: users
+2025-08-04 15:01:01,850 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-04 15:01:45,661 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 15:01:45,665 - database - INFO - Database tables created successfully
+2025-08-04 15:01:45,736 - database - INFO - Default house data populated
+2025-08-04 15:01:45,736 - database - INFO - Database initialized successfully
+2025-08-04 15:01:45,745 - commands - INFO - All commands have been set up successfully
+2025-08-04 15:01:45,745 - commands - INFO - Total commands available: 104
+2025-08-04 15:01:45,746 - __main__ - INFO - Starting Discord bot...
+2025-08-04 15:01:45,747 - discord.client - INFO - logging in using static token
+2025-08-04 15:01:45,765 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 15:01:45,772 - database - INFO - Database tables created successfully
+2025-08-04 15:01:45,793 - database - INFO - Default house data populated
+2025-08-04 15:01:45,828 - database - INFO - Database initialized successfully
+2025-08-04 15:01:45,835 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 15:01:45,836 - database - INFO - Database tables created successfully
+2025-08-04 15:01:45,843 - commands - INFO - All commands have been set up successfully
+2025-08-04 15:01:45,843 - commands - INFO - Total commands available: 104
+2025-08-04 15:01:45,844 - __main__ - INFO - Starting Discord bot...
+2025-08-04 15:01:45,844 - discord.client - INFO - logging in using static token
+2025-08-04 15:01:45,878 - database - INFO - Default house data populated
+2025-08-04 15:01:45,880 - database - INFO - Database initialized successfully
+2025-08-04 15:01:45,889 - commands - INFO - All commands have been set up successfully
+2025-08-04 15:01:45,889 - commands - INFO - Total commands available: 104
+2025-08-04 15:01:45,890 - __main__ - INFO - Starting Discord bot...
+2025-08-04 15:01:45,890 - discord.client - INFO - logging in using static token
+2025-08-04 15:01:46,709 - __main__ - INFO - Setting up background tasks...
+2025-08-04 15:01:46,717 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.88.2:8080
+2025-08-04 15:01:46,717 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:01:46,848 - __main__ - INFO - Setting up background tasks...
+2025-08-04 15:01:46,855 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.31.88.2:5000
+2025-08-04 15:01:46,856 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:01:47,113 - __main__ - INFO - Setting up background tasks...
+2025-08-04 15:01:47,118 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:46831
+ * Running on http://172.31.88.2:46831
+2025-08-04 15:01:47,118 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:01:47,233 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 15:01:47,233 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 15:01:47,437 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1398629156413116496/commands responded with 429. Retrying in 29.61 seconds.
+2025-08-04 15:01:47,933 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 42e4ea6d9ceb9626c5f7bc18509b2813).
+2025-08-04 15:01:50,277 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 15:01:50,278 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 15:01:50,302 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 15:01:50,303 - performance_optimizer - ERROR - Database optimization error: no such table: main.users
+2025-08-04 15:01:50,303 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 15:01:50,303 - performance_optimizer - ERROR - Performance stats error: no such table: users
+2025-08-04 15:01:50,304 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-04 15:02:37,889 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 15:02:37,891 - database - INFO - Database tables created successfully
+2025-08-04 15:02:37,940 - database - INFO - Default house data populated
+2025-08-04 15:02:37,941 - database - INFO - Database initialized successfully
+2025-08-04 15:02:37,949 - commands - INFO - All commands have been set up successfully
+2025-08-04 15:02:37,950 - commands - INFO - Total commands available: 104
+2025-08-04 15:02:37,951 - __main__ - INFO - Starting Discord bot...
+2025-08-04 15:02:37,951 - discord.client - INFO - logging in using static token
+2025-08-04 15:02:38,850 - __main__ - INFO - Setting up background tasks...
+2025-08-04 15:02:38,869 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://172.31.88.2:8080
+2025-08-04 15:02:38,870 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:02:39,199 - discord.http - WARNING - We are being rate limited. PUT https://discord.com/api/v10/applications/1398629156413116496/commands responded with 429. Retrying in 7.85 seconds.
+2025-08-04 15:03:47,183 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 15:03:47,184 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 15:03:47,832 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bfad4f184356632554f3f92845eb1894).
+2025-08-04 15:03:50,257 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 15:03:50,257 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 15:03:50,315 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 15:03:50,315 - performance_optimizer - ERROR - Database optimization error: no such table: main.users
+2025-08-04 15:03:50,315 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 15:03:50,316 - performance_optimizer - ERROR - Performance stats error: no such table: users
+2025-08-04 15:03:50,316 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-04 15:04:02,424 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 15:04:02,454 - database - INFO - Database tables created successfully
+2025-08-04 15:04:02,470 - database - INFO - Default house data populated
+2025-08-04 15:04:02,470 - database - INFO - Database initialized successfully
+2025-08-04 15:04:02,479 - commands - INFO - All commands have been set up successfully
+2025-08-04 15:04:02,479 - commands - INFO - Total commands available: 104
+2025-08-04 15:04:02,481 - __main__ - INFO - Starting Discord bot...
+2025-08-04 15:04:02,481 - discord.client - INFO - logging in using static token
+2025-08-04 15:04:03,584 - __main__ - INFO - Setting up background tasks...
+2025-08-04 15:04:03,592 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:58119
+ * Running on http://172.31.88.2:58119
+2025-08-04 15:04:03,592 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:04:04,143 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 15:04:04,144 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 15:04:04,895 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2da675912a04ced3a48f7ddabf816ddf).
+2025-08-04 15:04:10,929 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 15:04:10,941 - database - INFO - Database tables created successfully
+2025-08-04 15:04:10,990 - database - INFO - Default house data populated
+2025-08-04 15:04:10,990 - database - INFO - Database initialized successfully
+2025-08-04 15:04:10,999 - commands - INFO - All commands have been set up successfully
+2025-08-04 15:04:11,000 - commands - INFO - Total commands available: 104
+2025-08-04 15:04:11,001 - __main__ - INFO - Starting Discord bot...
+2025-08-04 15:04:11,001 - discord.client - INFO - logging in using static token
+2025-08-04 15:04:11,857 - __main__ - INFO - Setting up background tasks...
+2025-08-04 15:04:11,858 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-04 15:04:11,859 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 15:04:11,870 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:47873
+ * Running on http://172.31.88.2:47873
+2025-08-04 15:04:11,870 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:04:12,597 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 2e7eb247f8ad2a9be46bd4d2bb46124c).
+2025-08-04 15:04:14,639 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 15:04:14,640 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 15:04:14,689 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 15:04:15,079 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-04 15:04:15,079 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 15:04:15,080 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}
+2025-08-04 15:06:07,025 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 15:06:07,028 - database - INFO - Database tables created successfully
+2025-08-04 15:06:07,046 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 15:06:07,120 - database - INFO - Default house data populated
+2025-08-04 15:06:07,120 - database - INFO - Database initialized successfully
+2025-08-04 15:06:07,133 - database - INFO - Database tables created successfully
+2025-08-04 15:06:07,142 - commands - INFO - All commands have been set up successfully
+2025-08-04 15:06:07,142 - commands - INFO - Total commands available: 104
+2025-08-04 15:06:07,145 - __main__ - INFO - Starting Discord bot...
+2025-08-04 15:06:07,145 - discord.client - INFO - logging in using static token
+2025-08-04 15:06:07,172 - database - INFO - Default house data populated
+2025-08-04 15:06:07,173 - database - INFO - Database initialized successfully
+2025-08-04 15:06:07,181 - commands - INFO - All commands have been set up successfully
+2025-08-04 15:06:07,182 - commands - INFO - Total commands available: 104
+2025-08-04 15:06:07,182 - __main__ - INFO - Starting Discord bot...
+2025-08-04 15:06:07,183 - discord.client - INFO - logging in using static token
+2025-08-04 15:06:08,089 - __main__ - INFO - Setting up background tasks...
+2025-08-04 15:06:08,089 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-04 15:06:08,090 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 15:06:08,102 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:34215
+ * Running on http://172.31.88.2:34215
+2025-08-04 15:06:08,102 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:06:08,282 - __main__ - INFO - Setting up background tasks...
+2025-08-04 15:06:08,282 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-04 15:06:08,282 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 15:06:08,286 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:52319
+ * Running on http://172.31.88.2:52319
+2025-08-04 15:06:08,287 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:06:08,783 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 1d6ae1edd365ea025f58e553e196872c).
+2025-08-04 15:06:08,975 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a9fe45e7ba55d57452b5998f0471bc0a).
+2025-08-04 15:06:10,814 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 15:06:10,814 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 15:06:10,868 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 15:06:10,960 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-04 15:06:10,961 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 15:06:10,961 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}
+2025-08-04 15:06:11,303 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 15:06:11,303 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 15:06:11,324 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 15:06:11,380 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-04 15:06:11,381 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 15:06:11,381 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}
+2025-08-04 15:08:01,414 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 15:08:01,416 - database - INFO - Database tables created successfully
+2025-08-04 15:08:01,465 - database - INFO - Default house data populated
+2025-08-04 15:08:01,465 - database - INFO - Database initialized successfully
+2025-08-04 15:08:01,474 - commands - INFO - All commands have been set up successfully
+2025-08-04 15:08:01,475 - commands - INFO - Total commands available: 104
+2025-08-04 15:08:01,476 - __main__ - INFO - Starting Discord bot...
+2025-08-04 15:08:01,476 - discord.client - INFO - logging in using static token
+2025-08-04 15:08:02,357 - __main__ - INFO - Setting up background tasks...
+2025-08-04 15:08:02,358 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-04 15:08:02,358 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 15:08:02,371 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:38263
+ * Running on http://172.31.88.2:38263
+2025-08-04 15:08:02,371 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 15:08:03,076 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f7035743c8275627de443891221adf2f).
+2025-08-04 15:08:05,573 - __main__ - INFO - Demir Taht Rp#6979 has logged in!
+2025-08-04 15:08:05,573 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 15:08:05,640 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 15:08:05,696 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-04 15:08:05,698 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 15:08:05,698 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}
+2025-08-04 15:18:50,151 - discord.gateway - INFO - Shard ID None has successfully RESUMED session f7035743c8275627de443891221adf2f.
+2025-08-04 21:31:11,709 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-04 21:31:11,711 - database - INFO - Database tables created successfully
+2025-08-04 21:31:11,836 - database - INFO - Default house data populated
+2025-08-04 21:31:11,836 - database - INFO - Database initialized successfully
+2025-08-04 21:31:11,844 - commands - INFO - All commands have been set up successfully
+2025-08-04 21:31:11,844 - commands - INFO - Total commands available: 104
+2025-08-04 21:31:11,852 - __main__ - INFO - Starting Discord bot...
+2025-08-04 21:31:11,852 - discord.client - INFO - logging in using static token
+2025-08-04 21:31:12,684 - __main__ - INFO - Setting up background tasks...
+2025-08-04 21:31:12,724 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:49069
+ * Running on http://172.31.85.226:49069
+2025-08-04 21:31:12,724 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-04 21:31:13,357 - __main__ - INFO - Synced 3 slash commands
+2025-08-04 21:31:13,358 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-04 21:31:14,087 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b187cc61da6d0f41a6d87564e4946aea).
+2025-08-04 21:31:16,170 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-04 21:31:16,170 - __main__ - INFO - Bot is in 3 guilds
+2025-08-04 21:31:16,189 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-04 21:31:16,283 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-04 21:31:16,284 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-04 21:31:16,284 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}
+2025-08-05 16:46:41,727 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-05 16:46:41,728 - __main__ - INFO - Please set your Discord bot token in the Secrets tab
+2025-08-05 16:49:49,427 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 16:49:49,439 - database - INFO - Database tables created successfully
+2025-08-05 16:49:49,461 - database - INFO - Default house data populated
+2025-08-05 16:49:49,461 - database - INFO - Database initialized successfully
+2025-08-05 16:49:49,469 - commands - INFO - All commands have been set up successfully
+2025-08-05 16:49:49,469 - commands - INFO - Total commands available: 104
+2025-08-05 16:49:49,483 - __main__ - INFO - Starting Discord bot...
+2025-08-05 16:49:49,484 - discord.client - INFO - logging in using static token
+2025-08-05 16:49:49,997 - __main__ - ERROR - Invalid Discord bot token!
+2025-08-05 16:51:35,745 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 16:51:35,751 - database - INFO - Database tables created successfully
+2025-08-05 16:51:35,837 - database - INFO - Default house data populated
+2025-08-05 16:51:35,837 - database - INFO - Database initialized successfully
+2025-08-05 16:51:35,843 - commands - INFO - All commands have been set up successfully
+2025-08-05 16:51:35,844 - commands - INFO - Total commands available: 104
+2025-08-05 16:51:35,845 - __main__ - INFO - Starting Discord bot...
+2025-08-05 16:51:35,845 - discord.client - INFO - logging in using static token
+2025-08-05 16:51:36,208 - __main__ - ERROR - Invalid Discord bot token!
+2025-08-05 16:52:38,027 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 16:52:38,030 - database - INFO - Database tables created successfully
+2025-08-05 16:52:38,151 - database - INFO - Default house data populated
+2025-08-05 16:52:38,151 - database - INFO - Database initialized successfully
+2025-08-05 16:52:38,160 - commands - INFO - All commands have been set up successfully
+2025-08-05 16:52:38,160 - commands - INFO - Total commands available: 104
+2025-08-05 16:52:38,161 - __main__ - INFO - Starting Discord bot...
+2025-08-05 16:52:38,161 - discord.client - INFO - logging in using static token
+2025-08-05 16:52:38,522 - __main__ - ERROR - Invalid Discord bot token!
+2025-08-05 16:56:34,207 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 16:56:34,209 - database - INFO - Database tables created successfully
+2025-08-05 16:56:34,247 - database - INFO - Default house data populated
+2025-08-05 16:56:34,248 - database - INFO - Database initialized successfully
+2025-08-05 16:56:34,256 - commands - INFO - All commands have been set up successfully
+2025-08-05 16:56:34,256 - commands - INFO - Total commands available: 104
+2025-08-05 16:56:34,257 - __main__ - INFO - Starting Discord bot...
+2025-08-05 16:56:34,257 - discord.client - INFO - logging in using static token
+2025-08-05 16:56:34,622 - __main__ - ERROR - Invalid Discord bot token!
+2025-08-05 16:59:04,138 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 16:59:04,140 - database - INFO - Database tables created successfully
+2025-08-05 16:59:04,217 - database - INFO - Default house data populated
+2025-08-05 16:59:04,217 - database - INFO - Database initialized successfully
+2025-08-05 16:59:04,226 - commands - INFO - All commands have been set up successfully
+2025-08-05 16:59:04,226 - commands - INFO - Total commands available: 104
+2025-08-05 16:59:04,227 - __main__ - INFO - Starting Discord bot...
+2025-08-05 16:59:04,227 - discord.client - INFO - logging in using static token
+2025-08-05 16:59:04,587 - __main__ - ERROR - Invalid Discord bot token!
+2025-08-05 17:03:34,754 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:03:34,756 - database - INFO - Database tables created successfully
+2025-08-05 17:03:34,805 - database - INFO - Default house data populated
+2025-08-05 17:03:34,805 - database - INFO - Database initialized successfully
+2025-08-05 17:03:34,814 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:03:34,814 - commands - INFO - Total commands available: 104
+2025-08-05 17:03:34,815 - __main__ - INFO - Starting Discord bot...
+2025-08-05 17:03:34,815 - discord.client - INFO - logging in using static token
+2025-08-05 17:03:36,118 - __main__ - INFO - Setting up background tasks...
+2025-08-05 17:03:36,128 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:43369
+ * Running on http://172.31.108.98:43369
+2025-08-05 17:03:36,128 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 17:03:36,662 - __main__ - INFO - Synced 3 slash commands
+2025-08-05 17:03:36,662 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 17:03:37,690 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d7f60db83aae7a3c3819c7db94c6380d).
+2025-08-05 17:03:40,046 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 17:03:40,046 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 17:03:40,075 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 17:03:40,115 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 17:03:40,115 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 17:03:40,116 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}
+2025-08-05 17:04:05,786 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:04:05,791 - database - INFO - Database tables created successfully
+2025-08-05 17:04:05,841 - database - INFO - Default house data populated
+2025-08-05 17:04:05,841 - database - INFO - Database initialized successfully
+2025-08-05 17:04:05,850 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:04:05,851 - commands - INFO - Total commands available: 104
+2025-08-05 17:04:05,852 - __main__ - INFO - Starting Discord bot...
+2025-08-05 17:04:05,852 - discord.client - INFO - logging in using static token
+2025-08-05 17:04:06,837 - __main__ - INFO - Setting up background tasks...
+2025-08-05 17:04:06,838 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 17:04:06,838 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 17:04:06,846 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:55427
+ * Running on http://172.31.108.98:55427
+2025-08-05 17:04:06,846 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-08-05 17:04:07,565 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 7bd54b1949d514e37c70e0e2b6a595d9).
+2025-08-05 17:04:09,606 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 17:04:09,606 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 17:04:09,619 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 17:04:09,674 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 17:04:09,675 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 17:04:09,676 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}
+2025-08-05 17:06:43,800 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:06:43,802 - database - INFO - Database tables created successfully
+2025-08-05 17:06:43,861 - database - INFO - Default house data populated
+2025-08-05 17:06:43,861 - database - INFO - Database initialized successfully
+2025-08-05 17:06:43,870 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:06:43,870 - commands - INFO - Total commands available: 104
+2025-08-05 17:06:43,871 - __main__ - INFO - Starting Discord bot...
+2025-08-05 17:06:43,871 - discord.client - INFO - logging in using static token
+2025-08-05 17:06:44,759 - __main__ - INFO - Setting up background tasks...
+2025-08-05 17:06:44,760 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 17:06:44,760 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 17:06:45,449 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 4b3cadddc98d14da404484b6049833ce).
+2025-08-05 17:06:47,657 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 17:06:47,657 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 17:06:47,675 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 17:06:47,712 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 17:06:47,712 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 17:06:47,713 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}
+2025-08-05 17:07:01,969 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:07:01,975 - database - INFO - Database tables created successfully
+2025-08-05 17:07:02,026 - database - INFO - Default house data populated
+2025-08-05 17:07:02,026 - database - INFO - Database initialized successfully
+2025-08-05 17:07:02,036 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:07:02,036 - commands - INFO - Total commands available: 104
+2025-08-05 17:07:02,037 - __main__ - INFO - Starting Discord bot...
+2025-08-05 17:07:02,037 - discord.client - INFO - logging in using static token
+2025-08-05 17:07:04,379 - __main__ - INFO - Setting up background tasks...
+2025-08-05 17:07:04,379 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 17:07:04,379 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 17:07:05,066 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a151e127422bc82e7b53bc25d5ebcb4f).
+2025-08-05 17:07:07,112 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 17:07:07,112 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 17:07:07,126 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 17:07:07,168 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 17:07:07,169 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 17:07:07,170 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}

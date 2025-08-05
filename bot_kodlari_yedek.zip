@@ -1,0 +1,24 @@
+# 📦 Bot Kodları Yedek Paketi
+
+Bu dosya bot kodlarınızın tam listesini içerir. Aşağıdaki tüm dosyaları kopyalayıp yedeğinizi alın:
+
+## Ana Dosyalar:
+- main.py
+- commands.py  
+- database.py
+- war_system.py
+- economy.py
+- army_management.py
+- tournament_system.py
+- utils.py
+- config.py
+- keep_alive.py
+
+## Veritabanı:
+- got_rp.db (SQLite veritabanı dosyası)
+
+## Gereksinimler:
+- pyproject.toml
+- uv.lock
+
+## Tüm kodlar aşağıda...

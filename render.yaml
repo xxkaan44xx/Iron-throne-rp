@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: got-rp-bot
+    env: python
+    buildCommand: pip install discord.py flask requests psutil
+    startCommand: python main.py
+    envVars:
+      - key: DISCORD_BOT_TOKEN
+        sync: false

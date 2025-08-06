@@ -12,6 +12,11 @@ class EconomySystem:
     async def generate_income(self):
         """Generate income from all income sources"""
         try:
+            # Check if database connection is alive
+            if not hasattr(self.db, 'conn') or self.db.conn is None:
+                logger.warning("Database connection not available for income generation")
+                return
+            
             # Get all active income sources that haven't generated income in the last minute
             self.db.c.execute('''
             SELECT income_sources.*, a.name as house_name
@@ -58,6 +63,11 @@ class EconomySystem:
     async def calculate_debt_interest(self):
         """Calculate and apply interest to all active debts"""
         try:
+            # Check if database connection is alive
+            if not hasattr(self.db, 'conn') or self.db.conn is None:
+                logger.warning("Database connection not available for debt calculation")
+                return
+            
             # Get all active debts
             self.db.c.execute('''
             SELECT id, debtor_house_id, amount, interest_rate, creditor_house_id

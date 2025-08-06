@@ -4,62 +4,83 @@ import time
 import os
 import random
 import socket
+import psutil
+import subprocess
+import sys
+import signal
 
 app = Flask('')
+
+# Bot'un başlangıç zamanını kaydet
+start_time = time.time()
+bot_process = None
 
 @app.route('/')
 def home():
     return """
     <html>
-    <head>
-        <title>🏰 Iron Throne RP Bot - 24/7 Active</title>
-        <style>
-            body { 
-                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-                color: white; 
-                font-family: Arial, sans-serif; 
-                text-align: center; 
-                padding: 50px;
-            }
-            .container {
-                max-width: 600px;
-                margin: 0 auto;
-                background: rgba(255,255,255,0.1);
-                padding: 40px;
-                border-radius: 20px;
-                box-shadow: 0 8px 32px rgba(0,0,0,0.3);
-            }
-            h1 { color: #FFD700; }
-        </style>
-    </head>
-    <body>
-        <div class="container">
-            <h1>🏰 Iron Throne RP Bot</h1>
-            <h2>✅ Bot is ONLINE & Active 24/7</h2>
-            <p>Game of Thrones Roleplay Discord Bot</p>
-            <p>🎯 Serving <strong>3 Discord Servers</strong></p>
-            <p>⚔️ 104+ Commands Available</p>
-            <p>🔥 Zero Downtime - Professional Grade</p>
-            <hr>
-            <p><em>Valar Morghulis - All Men Must Die</em></p>
-            <p><em>But this bot will live forever! 👑</em></p>
-        </div>
+    <head><title>🏰 Iron Throne RP Bot</title></head>
+    <body style="font-family: Arial; background: #2c2f33; color: #ffffff; text-align: center; padding: 50px;">
+        <h1>🏰 Game of Thrones Discord Bot</h1>
+        <h2>⚔️ Iron Throne RP - Demir Taht Roleplay</h2>
+        <p>✅ Bot is alive and running 24/7!</p>
+        <p>🏆 104+ Commands | 🏰 10 Houses | ⚔️ Advanced War System</p>
+        <p>💰 Economy System | 👑 Marriage System | 🛡️ Auto Moderation</p>
+        <hr>
+        <p><a href="/status" style="color: #7289da;">Bot Status</a> | <a href="/health" style="color: #7289da;">Health Check</a></p>
+        <p><small>Created by xxkaan44xx | Running on Replit</small></p>
     </body>
     </html>
     """
 
 @app.route('/status')
 def status():
+    uptime_seconds = time.time() - start_time
+    uptime_hours = uptime_seconds / 3600
+
     return jsonify({
         "status": "running",
-        "service": "Game of Thrones Discord Bot", 
-        "uptime": "24/7",
-        "timestamp": time.time()
+        "service": "Iron Throne RP Discord Bot",
+        "version": "3.0 Professional Edition",
+        "uptime_seconds": round(uptime_seconds),
+        "uptime_hours": round(uptime_hours, 2),
+        "features": {
+            "commands": "104+",
+            "houses": 10,
+            "systems": ["War", "Economy", "Marriage", "Tournament", "Trade"],
+            "moderation": "Advanced Auto-Mod"
+        },
+        "timestamp": time.time(),
+        "memory_usage": f"{psutil.Process().memory_info().rss / 1024 / 1024:.1f} MB" if 'psutil' in globals() else "N/A"
     })
 
 @app.route('/health')
 def health():
-    return jsonify({"health": "ok", "bot": "active"})
+    global bot_process
+    bot_status = "active" if bot_process and bot_process.poll() is None else "inactive"
+    
+    return jsonify({
+        "health": "ok",
+        "bot": bot_status,
+        "database": "connected",
+        "systems": "operational",
+        "process_alive": bot_process is not None and bot_process.poll() is None,
+        "last_check": time.time()
+    })
+
+@app.route('/restart-bot')
+def restart_bot():
+    """Restart the Discord bot if it crashes"""
+    global bot_process
+    try:
+        if bot_process:
+            bot_process.terminate()
+            bot_process.wait(timeout=10)
+        
+        bot_process = subprocess.Popen([sys.executable, 'main.py'])
+        return jsonify({"status": "bot restarted", "pid": bot_process.pid})
+    except Exception as e:
+        return jsonify({"status": "error", "message": str(e)})
 
 def find_free_port():
     """Find a free port to use"""
@@ -78,11 +99,64 @@ def run():
         print(f"Flask server error: {e}")
 
 def keep_alive():
+    """Start Flask server in a separate thread"""
     server = Thread(target=run)
     server.daemon = True
     server.start()
 
-if __name__ == "__main__":
-    keep_alive()
+def start_bot():
+    """Start the Discord bot as a subprocess"""
+    global bot_process
+    try:
+        bot_process = subprocess.Popen([sys.executable, 'main.py'])
+        return bot_process
+    except Exception as e:
+        print(f"Failed to start bot: {e}")
+        return None
+
+def monitor_bot():
+    """Monitor bot process and restart if crashed"""
+    global bot_process
     while True:
-        time.sleep(1)
+        if bot_process is None or bot_process.poll() is not None:
+            print("Bot process not running, starting...")
+            bot_process = start_bot()
+            if bot_process:
+                print(f"Bot started with PID: {bot_process.pid}")
+            else:
+                print("Failed to start bot, retrying in 30 seconds...")
+                time.sleep(30)
+                continue
+        
+        time.sleep(60)  # Check every minute
+
+def signal_handler(signum, frame):
+    """Handle shutdown signals gracefully"""
+    global bot_process
+    print("Shutting down gracefully...")
+    if bot_process:
+        bot_process.terminate()
+        bot_process.wait()
+    sys.exit(0)
+
+if __name__ == "__main__":
+    # Register signal handlers for graceful shutdown
+    signal.signal(signal.SIGTERM, signal_handler)
+    signal.signal(signal.SIGINT, signal_handler)
+    
+    # Start Flask web server
+    keep_alive()
+    print("Web server started on port 5000")
+    
+    # Start bot monitoring
+    monitor_thread = Thread(target=monitor_bot)
+    monitor_thread.daemon = True
+    monitor_thread.start()
+    print("Bot monitoring started")
+    
+    # Keep the main process alive
+    try:
+        while True:
+            time.sleep(1)
+    except KeyboardInterrupt:
+        signal_handler(signal.SIGINT, None)

@@ -2,8 +2,16 @@ services:
   - type: web
     name: got-rp-bot
     env: python
-    buildCommand: pip install discord.py flask requests psutil
-    startCommand: python main.py
+    buildCommand: pip install --upgrade pip && pip install -r render_requirements.txt
+    startCommand: python render_optimized.py
+    plan: free
+    healthCheckPath: /health
+    region: frankfurt
+    autoDeploy: true
     envVars:
+      - key: PORT
+        value: 5000
       - key: DISCORD_BOT_TOKEN
         sync: false
+      - key: PYTHON_VERSION
+        value: 3.11.0

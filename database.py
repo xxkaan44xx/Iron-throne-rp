@@ -9,12 +9,16 @@ logger = logging.getLogger(__name__)
 class Database:
     def __init__(self, db_path=DATABASE_PATH):
         try:
-            self.conn = sqlite3.connect(db_path, check_same_thread=False)
+            self.conn = sqlite3.connect(db_path, check_same_thread=False, timeout=30)
             self.conn.execute("PRAGMA foreign_keys = ON")
+            self.conn.execute("PRAGMA journal_mode = WAL")  # Better performance
+            self.conn.execute("PRAGMA synchronous = NORMAL")  # Faster writes
+            self.conn.execute("PRAGMA cache_size = 1000")  # Larger cache
+            self.conn.execute("PRAGMA temp_store = memory")  # Use memory for temp
             self.c = self.conn.cursor()
             self.create_tables()
             self.populate_default_data()
-            logger.info("Database initialized successfully")
+            logger.info("Database initialized successfully with optimizations")
         except Exception as e:
             logger.error(f"Database initialization error: {e}")
             raise
@@ -83,6 +87,7 @@ class Database:
             weather TEXT DEFAULT 'normal',
             terrain TEXT DEFAULT 'ova',
             winner_id INTEGER,
+            battle_size TEXT DEFAULT 'orta',
             FOREIGN KEY(attacker_id) REFERENCES alliances(id),
             FOREIGN KEY(defender_id) REFERENCES alliances(id),
             FOREIGN KEY(winner_id) REFERENCES alliances(id)
@@ -708,13 +713,13 @@ class Database:
             logger.error(f"Error updating alliance resources: {e}")
             return False
 
-    def create_war(self, attacker_id, defender_id, weather='normal', terrain='ova'):
+    def create_war(self, attacker_id, defender_id, weather='normal', terrain='ova', battle_size='orta'):
         """Create a new war"""
         try:
             self.c.execute('''
-            INSERT INTO wars (attacker_id, defender_id, weather, terrain)
-            VALUES (?, ?, ?, ?)
-            ''', (attacker_id, defender_id, weather, terrain))
+            INSERT INTO wars (attacker_id, defender_id, weather, terrain, battle_size)
+            VALUES (?, ?, ?, ?, ?)
+            ''', (attacker_id, defender_id, weather, terrain, battle_size))
             war_id = self.c.lastrowid
             self.conn.commit()
             return war_id

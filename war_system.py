@@ -38,7 +38,7 @@ class WarSystem:
             "çöl": {"attack_mod": 0.9, "defense_mod": 0.8, "description": "Çöl arazi"}
         }
 
-    def can_declare_war(self, attacker_id, defender_id):
+    def can_declare_war(self, attacker_id, defender_id, battle_size="orta"):
         """Check if war can be declared"""
         try:
             # Check if same alliance
@@ -65,7 +65,22 @@ class WarSystem:
             if defender[4] < 50:  # soldiers field
                 return False, "Hedef hanenin yeterli askeri yok!"
             
-            return True, "Savaş ilan edilebilir!"
+            # Battle size requirements
+            battle_sizes = {
+                "küçük": {"min_soldiers": 100, "max_ratio": 0.3, "description": "Küçük çaplı çatışma"},
+                "orta": {"min_soldiers": 500, "max_ratio": 0.6, "description": "Orta büyüklükte muharebe"},
+                "büyük": {"min_soldiers": 1000, "max_ratio": 0.8, "description": "Büyük savaş"},
+                "topyekün": {"min_soldiers": 2000, "max_ratio": 1.0, "description": "Topyekün savaş"}
+            }
+            
+            if battle_size not in battle_sizes:
+                return False, "Geçersiz muharebe büyüklüğü! (küçük/orta/büyük/topyekün)"
+            
+            size_info = battle_sizes[battle_size]
+            if attacker[4] < size_info["min_soldiers"] or defender[4] < size_info["min_soldiers"]:
+                return False, f"{size_info['description']} için en az {size_info['min_soldiers']} askere ihtiyaç var!"
+            
+            return True, f"{size_info['description']} ilan edilebilir!"
             
         except Exception as e:
             logger.error(f"Error checking war declaration: {e}")
@@ -221,9 +236,19 @@ class WarSystem:
             logger.error(f"Error executing battle turn: {e}")
             return None, f"Savaş turu işlenirken hata oluştu: {str(e)}"
 
-    def _calculate_combat_power(self, alliance, soldiers, action_effect, weather_effect, terrain_effect, is_attacker):
+    def _calculate_combat_power(self, alliance, soldiers, action_effect, weather_effect, terrain_effect, is_attacker, battle_size="orta"):
         """Calculate combat power for an alliance"""
-        base_power = soldiers * 10  # Base combat power
+        # Battle size modifiers
+        size_modifiers = {
+            "küçük": {"soldiers_ratio": 0.3, "intensity": 0.8},
+            "orta": {"soldiers_ratio": 0.6, "intensity": 1.0},
+            "büyük": {"soldiers_ratio": 0.8, "intensity": 1.2},
+            "topyekün": {"soldiers_ratio": 1.0, "intensity": 1.5}
+        }
+        
+        size_info = size_modifiers.get(battle_size, size_modifiers["orta"])
+        effective_soldiers = int(soldiers * size_info["soldiers_ratio"])
+        base_power = effective_soldiers * 10 * size_info["intensity"]
         
         # Apply action modifiers
         if is_attacker:

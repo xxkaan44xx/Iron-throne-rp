@@ -1269,3 +1269,1222 @@ In embeds.0.fields.3.value: Must be 1024 or fewer in length.
 2025-08-05 17:07:07,168 - performance_optimizer - INFO - Database optimization completed successfully
 2025-08-05 17:07:07,169 - performance_optimizer - INFO - Old data cleanup completed
 2025-08-05 17:07:07,170 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}
+2025-08-05 17:16:53,555 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:16:53,557 - database - INFO - Database tables created successfully
+2025-08-05 17:16:53,576 - database - INFO - Default house data populated
+2025-08-05 17:16:53,577 - database - INFO - Database initialized successfully
+2025-08-05 17:16:53,586 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:16:53,586 - commands - INFO - Total commands available: 104
+2025-08-05 17:16:53,587 - __main__ - INFO - Starting Discord bot...
+2025-08-05 17:16:53,587 - discord.client - INFO - logging in using static token
+2025-08-05 17:16:54,693 - __main__ - INFO - Setting up background tasks...
+2025-08-05 17:16:54,693 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 17:16:54,693 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 17:16:55,385 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d701d5b42234dcd702dcccb60cfc082d).
+2025-08-05 17:16:57,871 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 17:16:57,872 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 17:16:57,955 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 17:16:57,991 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 17:16:57,992 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 17:16:57,992 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 188416}
+2025-08-05 17:26:45,892 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:26:45,898 - database - INFO - Database tables created successfully
+2025-08-05 17:26:45,964 - database - INFO - Default house data populated
+2025-08-05 17:26:45,965 - database - INFO - Database initialized successfully
+2025-08-05 17:26:46,006 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 17:26:46,020 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 17:26:46,067 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 17:26:46,105 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 17:26:46,113 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:26:46,113 - commands - INFO - Total commands available: 104
+2025-08-05 17:26:46,113 - special_events - INFO - Special events system initialized successfully
+2025-08-05 17:26:46,116 - __main__ - INFO - Starting Discord bot...
+2025-08-05 17:26:46,116 - discord.client - INFO - logging in using static token
+2025-08-05 17:26:47,002 - __main__ - INFO - Setting up background tasks...
+2025-08-05 17:26:47,005 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 17:26:47,013 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 17:26:47,754 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 96a525b94f613056f666912047df5c75).
+2025-08-05 17:26:50,212 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 17:26:50,212 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 17:26:50,226 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 17:26:50,268 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 17:26:50,269 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 17:26:50,269 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 241664}
+2025-08-05 17:27:00,652 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:27:00,663 - database - INFO - Database tables created successfully
+2025-08-05 17:27:00,824 - database - INFO - Default house data populated
+2025-08-05 17:27:00,824 - database - INFO - Database initialized successfully
+2025-08-05 17:27:00,825 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 17:27:00,825 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 17:27:00,825 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 17:27:00,825 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 17:27:00,832 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:27:00,832 - commands - INFO - Total commands available: 104
+2025-08-05 17:27:00,833 - special_events - INFO - Special events system initialized successfully
+2025-08-05 17:27:00,835 - __main__ - INFO - Starting Discord bot...
+2025-08-05 17:27:00,835 - discord.client - INFO - logging in using static token
+2025-08-05 17:27:01,884 - __main__ - INFO - Setting up background tasks...
+2025-08-05 17:27:01,885 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 17:27:01,885 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 17:27:02,566 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: faca5ef1dc6dc8578b59f4c4b6cb4629).
+2025-08-05 17:27:05,045 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 17:27:05,045 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 17:27:05,066 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 17:27:05,106 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 17:27:05,106 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 17:27:05,107 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 241664}
+2025-08-05 17:38:45,581 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:38:45,583 - database - INFO - Database tables created successfully
+2025-08-05 17:38:45,596 - database - INFO - Default house data populated
+2025-08-05 17:38:45,596 - database - INFO - Database initialized successfully
+2025-08-05 17:38:45,596 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 17:38:45,597 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 17:38:45,597 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 17:38:45,597 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 17:38:45,625 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 17:38:45,634 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:38:45,634 - commands - INFO - Total commands available: 104
+2025-08-05 17:38:45,634 - special_events - INFO - Special events system initialized successfully
+2025-08-05 17:38:45,637 - __main__ - INFO - Starting Discord bot...
+2025-08-05 17:38:45,637 - discord.client - INFO - logging in using static token
+2025-08-05 17:38:46,802 - __main__ - INFO - Setting up background tasks...
+2025-08-05 17:38:46,802 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 17:38:46,803 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 17:38:47,471 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 064917808f7cd63f60029f5cb9975d1c).
+2025-08-05 17:38:49,564 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 17:38:49,564 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 17:38:49,589 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 17:38:49,656 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 17:38:49,656 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 17:38:49,657 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 258048}
+2025-08-05 17:46:39,438 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:46:39,459 - database - INFO - Database tables created successfully
+2025-08-05 17:46:39,592 - database - INFO - Default house data populated
+2025-08-05 17:46:39,597 - database - INFO - Database initialized successfully
+2025-08-05 17:46:39,598 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 17:46:39,598 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 17:46:39,598 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 17:46:39,598 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 17:46:39,599 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 17:46:39,608 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:46:39,609 - commands - INFO - Total commands available: 104
+2025-08-05 17:46:39,609 - special_events - INFO - Special events system initialized successfully
+2025-08-05 17:46:39,712 - __main__ - INFO - Starting Discord bot...
+2025-08-05 17:46:39,712 - discord.client - INFO - logging in using static token
+2025-08-05 17:46:40,699 - __main__ - INFO - Setting up background tasks...
+2025-08-05 17:46:40,699 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 17:46:40,699 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 17:46:41,537 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 61c06f88d4b43451be89d040fed29892).
+2025-08-05 17:46:43,594 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 17:46:43,595 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 17:46:43,624 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 17:46:43,704 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 17:46:43,705 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 17:46:43,705 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'users_count': 0, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'database_size_bytes': 258048}
+2025-08-05 17:50:19,087 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:50:19,197 - database - INFO - Database tables created successfully
+2025-08-05 17:50:19,204 - database - INFO - Default house data populated
+2025-08-05 17:50:19,205 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 17:50:19,205 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 17:50:19,205 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 17:50:19,205 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 17:50:19,205 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 17:50:19,206 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 17:50:19,215 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:50:19,215 - commands - INFO - Total commands available: 104
+2025-08-05 17:50:19,215 - special_events - INFO - Special events system initialized successfully
+2025-08-05 17:50:19,265 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 17:50:19,265 - __main__ - INFO - Starting Discord bot...
+2025-08-05 17:50:19,265 - discord.client - INFO - logging in using static token
+2025-08-05 17:50:20,315 - __main__ - INFO - Setting up background tasks...
+2025-08-05 17:50:20,315 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 17:50:20,315 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 17:50:20,990 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: df7fb96884410d9b44046a649574bf26).
+2025-08-05 17:50:23,264 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 17:50:23,264 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 17:50:23,266 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 17:50:23,275 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 17:50:23,275 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 17:50:23,276 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 258048}
+2025-08-05 17:55:42,866 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 17:55:42,875 - database - INFO - Database tables created successfully
+2025-08-05 17:55:42,880 - database - INFO - Default house data populated
+2025-08-05 17:55:42,880 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 17:55:42,880 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 17:55:42,881 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 17:55:42,881 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 17:55:42,882 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 17:55:42,883 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 17:55:42,903 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 17:55:42,909 - commands - INFO - All commands have been set up successfully
+2025-08-05 17:55:42,909 - commands - INFO - Total commands available: 104
+2025-08-05 17:55:42,918 - special_events - INFO - Special events system initialized successfully
+2025-08-05 17:55:42,920 - __main__ - ERROR - Unexpected error: The command görev_tamamla is already an existing command or alias.
+2025-08-05 18:07:41,747 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:07:41,749 - database - INFO - Database tables created successfully
+2025-08-05 18:07:41,780 - database - INFO - Default house data populated
+2025-08-05 18:07:41,781 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:07:41,783 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:07:41,784 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:07:41,784 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:07:41,784 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:07:41,784 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:07:41,793 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:07:41,802 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:07:41,802 - commands - INFO - Total commands available: 104
+2025-08-05 18:07:41,803 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:07:41,804 - __main__ - ERROR - Unexpected error: The command görev_tamamla is already an existing command or alias.
+2025-08-05 18:08:20,061 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:08:20,064 - database - INFO - Database tables created successfully
+2025-08-05 18:08:20,112 - database - INFO - Default house data populated
+2025-08-05 18:08:20,113 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:08:20,113 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:08:20,113 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:08:20,113 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:08:20,113 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:08:20,113 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:08:20,114 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:08:20,121 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:08:20,121 - commands - INFO - Total commands available: 104
+2025-08-05 18:08:20,122 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:08:20,123 - __main__ - ERROR - Unexpected error: The command görev_tamamla is already an existing command or alias.
+2025-08-05 18:10:36,501 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:10:36,504 - database - INFO - Database tables created successfully
+2025-08-05 18:10:36,533 - database - INFO - Default house data populated
+2025-08-05 18:10:36,534 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:10:36,534 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:10:36,534 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:10:36,534 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:10:36,534 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:10:36,534 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:10:36,557 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:10:36,563 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:10:36,564 - commands - INFO - Total commands available: 104
+2025-08-05 18:10:36,564 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:10:36,566 - __main__ - ERROR - Unexpected error: The alias başlangıç is already an existing command or alias.
+2025-08-05 18:10:39,945 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:10:39,947 - database - INFO - Database tables created successfully
+2025-08-05 18:10:39,964 - database - INFO - Default house data populated
+2025-08-05 18:10:39,964 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:10:39,964 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:10:39,965 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:10:39,965 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:10:39,965 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:10:39,965 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:10:39,966 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:10:39,975 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:10:39,975 - commands - INFO - Total commands available: 104
+2025-08-05 18:10:39,976 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:10:39,978 - __main__ - ERROR - Unexpected error: The alias başlangıç is already an existing command or alias.
+2025-08-05 18:10:42,467 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:10:42,470 - database - INFO - Database tables created successfully
+2025-08-05 18:10:42,582 - database - INFO - Default house data populated
+2025-08-05 18:10:42,582 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:10:42,583 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:10:42,583 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:10:42,583 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:10:42,583 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:10:42,583 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:10:42,584 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:10:42,593 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:10:42,594 - commands - INFO - Total commands available: 104
+2025-08-05 18:10:42,595 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:10:42,597 - __main__ - ERROR - Unexpected error: The alias başlangıç is already an existing command or alias.
+2025-08-05 18:10:45,000 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:10:45,002 - database - INFO - Database tables created successfully
+2025-08-05 18:10:45,012 - database - INFO - Default house data populated
+2025-08-05 18:10:45,013 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:10:45,013 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:10:45,013 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:10:45,013 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:10:45,013 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:10:45,014 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:10:45,014 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:10:45,022 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:10:45,022 - commands - INFO - Total commands available: 104
+2025-08-05 18:10:45,022 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:10:45,024 - __main__ - ERROR - Unexpected error: The alias başlangıç is already an existing command or alias.
+2025-08-05 18:12:38,792 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:12:38,794 - database - INFO - Database tables created successfully
+2025-08-05 18:12:38,860 - database - INFO - Default house data populated
+2025-08-05 18:12:38,860 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:12:38,860 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:12:38,860 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:12:38,860 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:12:38,861 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:12:38,861 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:12:38,867 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:12:38,875 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:12:38,876 - commands - INFO - Total commands available: 104
+2025-08-05 18:12:38,879 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:12:38,881 - __main__ - ERROR - Unexpected error: The alias başlangıç is already an existing command or alias.
+2025-08-05 18:13:00,803 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:13:00,805 - database - INFO - Database tables created successfully
+2025-08-05 18:13:00,831 - database - INFO - Default house data populated
+2025-08-05 18:13:00,831 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:13:00,832 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:13:00,832 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:13:00,832 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:13:00,832 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:13:00,832 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:13:00,833 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:13:00,860 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:13:00,861 - commands - INFO - Total commands available: 104
+2025-08-05 18:13:00,862 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:13:00,864 - __main__ - ERROR - Unexpected error: The alias başlangıç is already an existing command or alias.
+2025-08-05 18:13:12,413 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:13:12,415 - database - INFO - Database tables created successfully
+2025-08-05 18:13:12,459 - database - INFO - Default house data populated
+2025-08-05 18:13:12,459 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:13:12,460 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:13:12,460 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:13:12,460 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:13:12,460 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:13:12,461 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:13:12,462 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:13:12,471 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:13:12,471 - commands - INFO - Total commands available: 104
+2025-08-05 18:13:12,473 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:13:12,476 - __main__ - ERROR - Unexpected error: The alias başlangıç is already an existing command or alias.
+2025-08-05 18:14:44,601 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:14:44,608 - database - INFO - Database tables created successfully
+2025-08-05 18:14:44,633 - database - INFO - Default house data populated
+2025-08-05 18:14:44,633 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:14:44,633 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:14:44,633 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:14:44,634 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:14:44,634 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:14:44,634 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:14:44,639 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:14:44,676 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:14:44,676 - commands - INFO - Total commands available: 104
+2025-08-05 18:14:44,677 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:14:44,679 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 18:14:44,681 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:14:44,681 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:14:44,682 - discord.client - INFO - logging in using static token
+2025-08-05 18:14:45,155 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:14:45,156 - database - INFO - Database tables created successfully
+2025-08-05 18:14:45,157 - database - INFO - Default house data populated
+2025-08-05 18:14:45,157 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:14:45,157 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:14:45,158 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:14:45,158 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:14:45,158 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:14:45,158 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:14:45,158 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:14:45,164 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:14:45,165 - commands - INFO - Total commands available: 104
+2025-08-05 18:14:45,165 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:14:45,167 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 18:14:45,168 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:14:45,168 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:14:45,168 - discord.client - INFO - logging in using static token
+2025-08-05 18:14:45,528 - __main__ - INFO - Setting up background tasks...
+2025-08-05 18:14:46,001 - __main__ - INFO - Synced 3 slash commands
+2025-08-05 18:14:46,002 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 18:14:46,036 - __main__ - INFO - Setting up background tasks...
+2025-08-05 18:14:46,036 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 18:14:46,037 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 18:14:46,689 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 48bfb11fdc95d8aeea4481fba17c6d43).
+2025-08-05 18:14:46,729 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 59fd5c00c3a63c34881a7010ba15ec16).
+2025-08-05 18:14:48,957 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 18:14:48,957 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 18:14:48,958 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 18:14:48,976 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 18:14:48,976 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 18:14:48,977 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 18:14:49,219 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 18:14:49,219 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 18:14:49,221 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 18:14:49,229 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 18:14:49,229 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 18:14:49,230 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 18:24:35,855 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:24:35,857 - database - INFO - Database tables created successfully
+2025-08-05 18:24:35,866 - database - INFO - Default house data populated
+2025-08-05 18:24:35,866 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:24:35,867 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:24:35,867 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:24:35,867 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:24:35,867 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:24:35,867 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:24:35,868 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:24:35,875 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:24:35,876 - commands - INFO - Total commands available: 104
+2025-08-05 18:24:35,877 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:24:35,878 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 18:24:35,879 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:24:35,879 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:24:35,879 - discord.client - INFO - logging in using static token
+2025-08-05 18:24:36,970 - __main__ - INFO - Setting up background tasks...
+2025-08-05 18:24:36,970 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 18:24:36,970 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 18:24:37,638 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a6a902d8743a8c146a14647eb31639b7).
+2025-08-05 18:24:39,900 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 18:24:39,900 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 18:24:39,901 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 18:24:39,908 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 18:24:39,909 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 18:24:39,909 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 18:27:26,593 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:27:26,603 - database - INFO - Database tables created successfully
+2025-08-05 18:27:26,604 - database - INFO - Default house data populated
+2025-08-05 18:27:26,604 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:27:26,605 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:27:26,606 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:27:26,606 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:27:26,606 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:27:26,607 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:27:26,607 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:27:26,617 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:27:26,618 - commands - INFO - Total commands available: 104
+2025-08-05 18:27:26,618 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:27:26,620 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 18:27:26,620 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:27:26,620 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:27:26,620 - discord.client - INFO - logging in using static token
+2025-08-05 18:27:27,645 - __main__ - INFO - Setting up background tasks...
+2025-08-05 18:27:27,645 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 18:27:27,645 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 18:27:28,675 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a702f2b6099ab942359b3491c6bb38cb).
+2025-08-05 18:27:30,831 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 18:27:30,831 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 18:27:30,832 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 18:27:30,838 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 18:27:30,838 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 18:27:30,838 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 18:28:31,380 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:28:31,383 - database - INFO - Database tables created successfully
+2025-08-05 18:28:31,385 - database - INFO - Default house data populated
+2025-08-05 18:28:31,385 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:28:31,385 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:28:31,385 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:28:31,386 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:28:31,386 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:28:31,386 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:28:31,387 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:28:31,394 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:28:31,394 - commands - INFO - Total commands available: 104
+2025-08-05 18:28:31,395 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:28:31,397 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 18:28:31,397 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:28:31,397 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:28:31,397 - discord.client - INFO - logging in using static token
+2025-08-05 18:28:32,314 - __main__ - INFO - Setting up background tasks...
+2025-08-05 18:28:32,314 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 18:28:32,314 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 18:28:33,060 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: afa11eef3348905456d772e67bbb97c6).
+2025-08-05 18:28:35,507 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 18:28:35,507 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 18:28:35,508 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 18:28:35,515 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 18:28:35,515 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 18:28:35,516 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 18:36:46,941 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-05 18:36:46,942 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-05 18:36:47,116 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-05 18:36:47,116 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-05 18:36:55,517 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-05 18:36:55,518 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-05 18:37:47,117 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-05 18:37:47,118 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-05 18:38:24,836 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-05 18:38:24,836 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-05 18:38:25,257 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-05 18:38:25,257 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-05 18:38:41,591 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-05 18:38:41,591 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-05 18:38:41,966 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-05 18:38:41,966 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-05 18:39:41,959 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-05 18:39:41,959 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-05 18:39:48,630 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:39:48,634 - database - INFO - Database tables created successfully
+2025-08-05 18:39:48,635 - database - INFO - Default house data populated
+2025-08-05 18:39:48,635 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:39:48,635 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:39:48,635 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:39:48,635 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:39:48,636 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:39:48,636 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:39:48,637 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:39:48,639 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:39:48,640 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:39:48,640 - discord.client - INFO - logging in using static token
+2025-08-05 18:39:49,094 - __main__ - INFO - Setting up background tasks...
+2025-08-05 18:39:49,097 - __main__ - INFO - Loading bot commands...
+2025-08-05 18:39:49,118 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:39:49,120 - commands - INFO - Total commands available: 104
+2025-08-05 18:39:49,124 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:39:49,126 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 18:39:49,126 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 18:39:49,126 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 18:39:49,126 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 18:39:49,194 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:39:49,197 - database - INFO - Database tables created successfully
+2025-08-05 18:39:49,198 - database - INFO - Default house data populated
+2025-08-05 18:39:49,198 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:39:49,198 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:39:49,198 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:39:49,198 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:39:49,198 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:39:49,199 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:39:49,199 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:39:49,202 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:39:49,202 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:39:49,202 - discord.client - INFO - logging in using static token
+2025-08-05 18:39:49,496 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 46be7ded6ad06f740757ed62f9cb6176).
+2025-08-05 18:39:49,752 - __main__ - INFO - Setting up background tasks...
+2025-08-05 18:39:49,752 - __main__ - INFO - Loading bot commands...
+2025-08-05 18:39:49,760 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:39:49,761 - commands - INFO - Total commands available: 104
+2025-08-05 18:39:49,762 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:39:49,764 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 18:39:49,764 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 18:39:49,764 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 18:39:49,764 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 18:39:49,954 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 439db84fc7c84596e93f719f1c3270cb).
+2025-08-05 18:39:51,521 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 18:39:51,522 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 18:39:51,523 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 18:39:51,532 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 18:39:51,532 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 18:39:51,533 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 18:39:52,004 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 18:39:52,004 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 18:39:52,007 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 18:39:52,018 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 18:39:52,018 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 18:39:52,019 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 18:52:24,985 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:52:24,999 - database - INFO - Database tables created successfully
+2025-08-05 18:52:25,000 - database - INFO - Default house data populated
+2025-08-05 18:52:25,000 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:52:25,000 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:52:25,000 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:52:25,001 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:52:25,001 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:52:25,001 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:52:25,002 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:52:25,004 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:52:25,004 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:52:25,004 - discord.client - INFO - logging in using static token
+2025-08-05 18:52:25,482 - __main__ - INFO - Setting up background tasks...
+2025-08-05 18:52:25,482 - __main__ - INFO - Loading bot commands...
+2025-08-05 18:52:25,492 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:52:25,494 - commands - INFO - Total commands available: 104
+2025-08-05 18:52:25,495 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:52:25,499 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 18:52:25,500 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 18:52:25,506 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 18:52:25,508 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 18:52:25,833 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b621a235d3b5713f26351d87ad334e69).
+2025-08-05 18:52:27,893 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 18:52:27,893 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 18:52:27,894 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 18:52:27,900 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 18:52:27,901 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 18:52:27,901 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 18:52:49,166 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:52:49,170 - database - INFO - Database tables created successfully
+2025-08-05 18:52:49,175 - database - INFO - Default house data populated
+2025-08-05 18:52:49,175 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:52:49,175 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:52:49,176 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:52:49,176 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:52:49,176 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:52:49,176 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:52:49,177 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:52:49,177 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:52:49,178 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:52:49,178 - discord.client - INFO - logging in using static token
+2025-08-05 18:52:49,848 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:52:49,857 - database - INFO - Database tables created successfully
+2025-08-05 18:52:49,858 - database - INFO - Default house data populated
+2025-08-05 18:52:49,858 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:52:49,858 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:52:49,858 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:52:49,859 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:52:49,865 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:52:49,865 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:52:49,866 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:52:49,866 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:52:49,866 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:52:49,867 - discord.client - INFO - logging in using static token
+2025-08-05 18:52:50,456 - __main__ - INFO - Setting up background tasks...
+2025-08-05 18:52:50,457 - __main__ - INFO - Loading bot commands...
+2025-08-05 18:52:50,465 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:52:50,466 - commands - INFO - Total commands available: 104
+2025-08-05 18:52:50,467 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:52:50,468 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 18:52:50,468 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 18:52:50,469 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 18:52:50,469 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 18:52:50,560 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 18:52:50,562 - database - INFO - Database tables created successfully
+2025-08-05 18:52:50,563 - database - INFO - Default house data populated
+2025-08-05 18:52:50,563 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 18:52:50,563 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 18:52:50,563 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 18:52:50,564 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 18:52:50,564 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 18:52:50,564 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 18:52:50,564 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 18:52:50,565 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 18:52:50,565 - __main__ - INFO - Starting Discord bot...
+2025-08-05 18:52:50,565 - discord.client - INFO - logging in using static token
+2025-08-05 18:52:50,759 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3b84fd7f4c7f3ea4842642813a4284b4).
+2025-08-05 18:52:50,994 - __main__ - INFO - Setting up background tasks...
+2025-08-05 18:52:50,995 - __main__ - INFO - Loading bot commands...
+2025-08-05 18:52:51,001 - commands - INFO - All commands have been set up successfully
+2025-08-05 18:52:51,001 - commands - INFO - Total commands available: 104
+2025-08-05 18:52:51,002 - special_events - INFO - Special events system initialized successfully
+2025-08-05 18:52:51,003 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 18:52:51,004 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 18:52:51,004 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 18:52:51,004 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 18:52:51,228 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3452ca55f86531b841cda9e416d087e2).
+2025-08-05 18:52:52,786 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 18:52:52,786 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 18:52:52,787 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 18:52:52,795 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 18:52:52,796 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 18:52:52,796 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 18:52:53,274 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 18:52:53,274 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 18:52:53,276 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 18:52:53,285 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 18:52:53,285 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 18:52:53,286 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:00:12,462 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:00:12,493 - database - INFO - Database tables created successfully
+2025-08-05 19:00:12,495 - database - INFO - Default house data populated
+2025-08-05 19:00:12,495 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:00:12,495 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:00:12,495 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:00:12,495 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:00:12,495 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:00:12,495 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:00:12,499 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:00:12,501 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:00:12,502 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:00:12,502 - discord.client - INFO - logging in using static token
+2025-08-05 19:00:12,985 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:00:12,985 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:00:12,986 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:00:12,988 - database - INFO - Database tables created successfully
+2025-08-05 19:00:12,989 - database - INFO - Default house data populated
+2025-08-05 19:00:12,989 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:00:12,990 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:00:12,990 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:00:12,990 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:00:12,990 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:00:12,990 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:00:12,991 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:00:12,991 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:00:12,991 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:00:12,992 - discord.client - INFO - logging in using static token
+2025-08-05 19:00:12,995 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:00:12,995 - commands - INFO - Total commands available: 104
+2025-08-05 19:00:12,999 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:00:13,001 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:00:13,001 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:00:13,006 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:00:13,007 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:00:13,288 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3cdbe69c40739a1bd36ec745c81abbb8).
+2025-08-05 19:00:13,647 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:00:13,647 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:00:13,653 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:00:13,653 - commands - INFO - Total commands available: 104
+2025-08-05 19:00:13,654 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:00:13,656 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:00:13,656 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:00:13,656 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:00:13,656 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:00:13,906 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: d6c271ffe11e6184fd42f189a7600752).
+2025-08-05 19:00:15,322 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:00:15,322 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:00:15,323 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:00:15,331 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:00:15,331 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:00:15,331 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:00:15,945 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:00:15,945 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:00:15,947 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:00:15,955 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:00:15,955 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:00:15,956 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:01:42,315 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:01:42,318 - database - INFO - Database tables created successfully
+2025-08-05 19:01:42,319 - database - INFO - Default house data populated
+2025-08-05 19:01:42,319 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:01:42,319 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:01:42,319 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:01:42,320 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:01:42,320 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:01:42,320 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:01:42,320 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:01:42,321 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:01:42,321 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:01:42,321 - discord.client - INFO - logging in using static token
+2025-08-05 19:01:42,745 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:01:42,745 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:01:42,753 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:01:42,753 - commands - INFO - Total commands available: 104
+2025-08-05 19:01:42,754 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:01:42,755 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:01:42,755 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:01:42,755 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:01:42,756 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:01:42,979 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e8ded5ffe423e8fc013530eef06329e8).
+2025-08-05 19:01:44,996 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:01:44,996 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:01:44,997 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:01:45,003 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:01:45,003 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:01:45,003 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:07:45,064 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:07:45,088 - database - INFO - Database tables created successfully
+2025-08-05 19:07:45,089 - database - INFO - Default house data populated
+2025-08-05 19:07:45,089 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:07:45,089 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:07:45,090 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:07:45,090 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:07:45,090 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:07:45,090 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:07:45,093 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:07:45,097 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:07:45,097 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:07:45,097 - discord.client - INFO - logging in using static token
+2025-08-05 19:07:45,601 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:07:45,601 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:07:45,608 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:07:45,609 - commands - INFO - Total commands available: 104
+2025-08-05 19:07:45,610 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:07:45,612 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:07:45,612 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:07:45,615 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:07:45,615 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:07:46,132 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bf57cd317acbe067fc56122346828f15).
+2025-08-05 19:07:48,146 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:07:48,146 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:07:48,147 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:07:48,155 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:07:48,155 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:07:48,156 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:10:49,224 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:10:49,225 - database - INFO - Database tables created successfully
+2025-08-05 19:10:49,226 - database - INFO - Default house data populated
+2025-08-05 19:10:49,226 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:10:49,234 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:10:49,234 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:10:49,234 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:10:49,234 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:10:49,234 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:10:49,235 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:10:49,235 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:10:49,235 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:10:49,236 - discord.client - INFO - logging in using static token
+2025-08-05 19:10:49,647 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:10:49,648 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:10:49,655 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:10:49,656 - commands - INFO - Total commands available: 104
+2025-08-05 19:10:49,656 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:10:49,658 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:10:49,658 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:10:49,658 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:10:49,659 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:10:49,879 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e2a26c80bf7a8ed103ec4702cf8105e3).
+2025-08-05 19:10:51,903 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:10:51,903 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:10:51,904 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:10:51,949 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:10:51,949 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:10:51,950 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:11:05,055 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:11:05,060 - database - INFO - Database tables created successfully
+2025-08-05 19:11:05,062 - database - INFO - Default house data populated
+2025-08-05 19:11:05,062 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:11:05,062 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:11:05,063 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:11:05,063 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:11:05,063 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:11:05,063 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:11:05,064 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:11:05,064 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:11:05,064 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:11:05,064 - discord.client - INFO - logging in using static token
+2025-08-05 19:11:05,753 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:11:05,753 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:11:05,763 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:11:05,763 - commands - INFO - Total commands available: 104
+2025-08-05 19:11:05,764 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:11:05,768 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:11:05,768 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:11:05,768 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:11:05,768 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:11:05,972 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 29801ba2df9254b5df490c1027417dcf).
+2025-08-05 19:11:07,997 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:11:07,999 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:11:08,000 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:11:08,006 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:11:08,006 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:11:08,006 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:16:40,709 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:16:40,711 - database - INFO - Database tables created successfully
+2025-08-05 19:16:40,712 - database - INFO - Default house data populated
+2025-08-05 19:16:40,712 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:16:40,713 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:16:40,713 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:16:40,713 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:16:40,713 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:16:40,713 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:16:40,714 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:16:40,714 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:16:40,714 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:16:40,714 - discord.client - INFO - logging in using static token
+2025-08-05 19:16:41,442 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:16:41,442 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:16:41,451 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:16:41,451 - commands - INFO - Total commands available: 104
+2025-08-05 19:16:41,452 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:16:41,454 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:16:41,454 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:16:41,747 - __main__ - INFO - Synced 3 slash commands
+2025-08-05 19:16:41,748 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:16:42,151 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: fc3247c656ebabf772869eca32f6b85d).
+2025-08-05 19:16:44,188 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:16:44,188 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:16:44,189 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:16:44,198 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:16:44,198 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:16:44,198 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:31:15,798 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:31:15,800 - database - INFO - Database tables created successfully
+2025-08-05 19:31:15,801 - database - INFO - Default house data populated
+2025-08-05 19:31:15,801 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:31:15,801 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:31:15,801 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:31:15,801 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:31:15,802 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:31:15,802 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:31:15,802 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:31:15,803 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:31:15,803 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:31:15,803 - discord.client - INFO - logging in using static token
+2025-08-05 19:31:16,178 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:31:16,178 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:31:16,187 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:31:16,187 - commands - INFO - Total commands available: 104
+2025-08-05 19:31:16,188 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:31:16,190 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:31:16,190 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:31:16,191 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:31:16,191 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:31:16,544 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ee711928f697a62949218fc48b2a8ed4).
+2025-08-05 19:31:18,571 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:31:18,571 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:31:18,572 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:31:18,587 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:31:18,587 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:31:18,588 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:42:21,496 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:42:21,498 - database - INFO - Database tables created successfully
+2025-08-05 19:42:21,500 - database - INFO - Default house data populated
+2025-08-05 19:42:21,500 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:42:21,500 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:42:21,501 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:42:21,501 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:42:21,501 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:42:21,502 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:42:21,503 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:42:21,503 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:42:21,503 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:42:21,505 - discord.client - INFO - logging in using static token
+2025-08-05 19:42:21,956 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:42:21,957 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:42:21,966 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:42:21,966 - commands - INFO - Total commands available: 104
+2025-08-05 19:42:21,967 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:42:21,973 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:42:21,973 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:42:21,973 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:42:21,974 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:42:22,240 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b5e682532f498092244f2b6f01dc77aa).
+2025-08-05 19:42:24,272 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:42:24,272 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:42:24,273 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:42:24,281 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:42:24,281 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:42:24,282 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:42:26,774 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:42:26,788 - database - INFO - Database tables created successfully
+2025-08-05 19:42:26,789 - database - INFO - Default house data populated
+2025-08-05 19:42:26,789 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:42:26,789 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:42:26,789 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:42:26,790 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:42:26,790 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:42:26,790 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:42:26,791 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:42:26,791 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:42:26,791 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:42:26,798 - discord.client - INFO - logging in using static token
+2025-08-05 19:42:27,245 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:42:27,245 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:42:27,253 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:42:27,253 - commands - INFO - Total commands available: 104
+2025-08-05 19:42:27,254 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:42:27,257 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:42:27,257 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:42:27,257 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:42:27,257 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:42:27,488 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3dcfe3207ed94a0cfb361d4bf0179236).
+2025-08-05 19:42:29,524 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:42:29,524 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:42:29,525 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:42:29,535 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:42:29,535 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:42:29,536 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:42:56,953 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:42:56,955 - database - INFO - Database tables created successfully
+2025-08-05 19:42:56,956 - database - INFO - Default house data populated
+2025-08-05 19:42:56,956 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:42:56,956 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:42:56,956 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:42:56,957 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:42:56,957 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:42:56,957 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:42:56,957 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:42:56,958 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:42:56,958 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:42:56,958 - discord.client - INFO - logging in using static token
+2025-08-05 19:42:57,520 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:42:57,520 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:42:57,529 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:42:57,530 - commands - INFO - Total commands available: 104
+2025-08-05 19:42:57,531 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:42:57,533 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:42:57,533 - __main__ - INFO - Successfully loaded 146 commands
+2025-08-05 19:42:57,533 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:42:57,533 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:42:57,789 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 457a7beb6d552178bac1f8715959445a).
+2025-08-05 19:42:59,818 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:42:59,818 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:42:59,819 - economy - INFO - Applied 85 gold in debt interest to 7 debts
+2025-08-05 19:42:59,825 - performance_optimizer - INFO - Database optimization completed successfully
+2025-08-05 19:42:59,825 - performance_optimizer - INFO - Old data cleanup completed
+2025-08-05 19:42:59,825 - __main__ - INFO - Daily maintenance completed. DB stats: {'alliances_count': 10, 'members_count': 7, 'wars_count': 0, 'tournaments_count': 0, 'duels_count': 0, 'marriages_count': 0, 'income_sources_count': 0, 'house_debts_count': 7, 'asoiaf_characters_count': 5, 'battle_logs_count': 0, 'army_resources_count': 10, 'database_size_bytes': 266240}
+2025-08-05 19:44:49,130 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:44:49,133 - database - INFO - Database tables created successfully
+2025-08-05 19:44:49,134 - database - INFO - Default house data populated
+2025-08-05 19:44:49,135 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:44:49,135 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:44:49,135 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:44:49,135 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:44:49,135 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:44:49,136 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:44:49,136 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:44:49,136 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:44:49,141 - __main__ - ERROR - Unexpected error: 'Database' object has no attribute 'get_connection'
+2025-08-05 19:45:35,874 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:45:35,877 - database - INFO - Database tables created successfully
+2025-08-05 19:45:35,912 - database - INFO - Default house data populated
+2025-08-05 19:45:35,912 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:45:35,913 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:45:35,913 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:45:35,913 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:45:35,913 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:45:35,913 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:45:35,914 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:45:35,915 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:45:35,951 - bot_improvements - INFO - Bot improvements tables created successfully
+2025-08-05 19:45:35,951 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:45:35,951 - discord.client - INFO - logging in using static token
+2025-08-05 19:45:36,421 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:45:36,421 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:45:36,430 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:45:36,430 - commands - INFO - Total commands available: 104
+2025-08-05 19:45:36,431 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:45:36,433 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:45:36,434 - __main__ - ERROR - Error loading commands: Cannot operate on a closed database.
+2025-08-05 19:45:36,434 - __main__ - ERROR - Bot startup error: Cannot operate on a closed database.
+2025-08-05 19:46:35,901 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:46:35,903 - database - INFO - Database tables created successfully
+2025-08-05 19:46:35,931 - database - INFO - Default house data populated
+2025-08-05 19:46:35,931 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:46:35,931 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:46:35,931 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:46:35,931 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:46:35,931 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:46:35,932 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:46:35,932 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:46:35,933 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:46:35,956 - bot_improvements - INFO - Bot improvements tables created successfully
+2025-08-05 19:46:35,957 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:46:35,957 - discord.client - INFO - logging in using static token
+2025-08-05 19:46:36,297 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:46:36,297 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:46:36,304 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:46:36,304 - commands - INFO - Total commands available: 104
+2025-08-05 19:46:36,305 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:46:36,306 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:46:36,306 - __main__ - ERROR - Error loading commands: Cannot operate on a closed database.
+2025-08-05 19:46:36,307 - __main__ - ERROR - Bot startup error: Cannot operate on a closed database.
+2025-08-05 19:46:50,611 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:46:50,615 - database - INFO - Database tables created successfully
+2025-08-05 19:46:50,622 - database - INFO - Default house data populated
+2025-08-05 19:46:50,622 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:46:50,622 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:46:50,622 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:46:50,622 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:46:50,623 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:46:50,623 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:46:50,624 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:46:50,624 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:46:50,641 - bot_improvements - INFO - Bot improvements tables created successfully
+2025-08-05 19:46:50,641 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:46:50,641 - discord.client - INFO - logging in using static token
+2025-08-05 19:46:51,099 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:46:51,099 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:46:51,110 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:46:51,110 - commands - INFO - Total commands available: 104
+2025-08-05 19:46:51,111 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:46:51,113 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:46:51,120 - quick_improvements - INFO - Quick improvements loaded successfully - 5 new commands added
+2025-08-05 19:46:51,120 - quick_improvements - INFO - Admin improvements loaded successfully
+2025-08-05 19:46:51,120 - __main__ - INFO - Successfully loaded 152 commands
+2025-08-05 19:46:51,120 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:46:51,121 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:46:51,367 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 48de306b9fa635024a5c2813263e9f21).
+2025-08-05 19:46:53,399 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:46:53,399 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:46:53,400 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:46:53,400 - economy - ERROR - Debt calculation error: Cannot operate on a closed database.
+2025-08-05 19:46:53,400 - performance_optimizer - ERROR - Database optimization error: Cannot operate on a closed database.
+2025-08-05 19:46:53,400 - performance_optimizer - ERROR - Data cleanup error: Cannot operate on a closed database.
+2025-08-05 19:46:53,400 - performance_optimizer - ERROR - Performance stats error: Cannot operate on a closed database.
+2025-08-05 19:46:53,400 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-05 19:47:10,634 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-05 19:47:10,637 - database - INFO - Database tables created successfully
+2025-08-05 19:47:10,644 - database - INFO - Default house data populated
+2025-08-05 19:47:10,644 - database - INFO - Database initialized successfully with optimizations
+2025-08-05 19:47:10,644 - achievements_system - INFO - Achievements tables created successfully
+2025-08-05 19:47:10,644 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-05 19:47:10,644 - economy_enhancements - INFO - Market tables created successfully
+2025-08-05 19:47:10,645 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-05 19:47:10,645 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-05 19:47:10,645 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-05 19:47:10,646 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-05 19:47:10,661 - bot_improvements - INFO - Bot improvements tables created successfully
+2025-08-05 19:47:10,662 - __main__ - INFO - Starting Discord bot...
+2025-08-05 19:47:10,662 - discord.client - INFO - logging in using static token
+2025-08-05 19:47:11,099 - __main__ - INFO - Setting up background tasks...
+2025-08-05 19:47:11,100 - __main__ - INFO - Loading bot commands...
+2025-08-05 19:47:11,108 - commands - INFO - All commands have been set up successfully
+2025-08-05 19:47:11,108 - commands - INFO - Total commands available: 104
+2025-08-05 19:47:11,109 - special_events - INFO - Special events system initialized successfully
+2025-08-05 19:47:11,111 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-05 19:47:11,111 - quick_improvements - INFO - Quick improvements loaded successfully - 5 new commands added
+2025-08-05 19:47:11,112 - quick_improvements - INFO - Admin improvements loaded successfully
+2025-08-05 19:47:11,112 - __main__ - INFO - Successfully loaded 152 commands
+2025-08-05 19:47:11,112 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-05 19:47:11,112 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-05 19:47:11,370 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 6783becad54ee1cf17446c20e2634b84).
+2025-08-05 19:47:13,402 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-05 19:47:13,403 - __main__ - INFO - Bot is in 3 guilds
+2025-08-05 19:47:13,403 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:47:13,403 - economy - ERROR - Debt calculation error: Cannot operate on a closed database.
+2025-08-05 19:47:13,403 - performance_optimizer - ERROR - Database optimization error: Cannot operate on a closed database.
+2025-08-05 19:47:13,403 - performance_optimizer - ERROR - Data cleanup error: Cannot operate on a closed database.
+2025-08-05 19:47:13,403 - performance_optimizer - ERROR - Performance stats error: Cannot operate on a closed database.
+2025-08-05 19:47:13,404 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-05 19:48:13,424 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:49:13,443 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:50:13,421 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:51:13,438 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:52:13,405 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:53:13,434 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:54:13,413 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:55:13,431 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:56:13,417 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:57:13,428 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-05 19:58:13,404 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 08:54:26,233 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-06 08:54:26,247 - database - INFO - Database tables created successfully
+2025-08-06 08:54:26,266 - database - INFO - Default house data populated
+2025-08-06 08:54:26,266 - database - INFO - Database initialized successfully with optimizations
+2025-08-06 08:54:26,266 - achievements_system - INFO - Achievements tables created successfully
+2025-08-06 08:54:26,266 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-06 08:54:26,267 - economy_enhancements - INFO - Market tables created successfully
+2025-08-06 08:54:26,267 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-06 08:54:26,267 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-06 08:54:26,271 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-06 08:54:26,272 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-06 08:54:26,331 - bot_improvements - INFO - Bot improvements tables created successfully
+2025-08-06 08:54:26,332 - __main__ - INFO - Starting Discord bot...
+2025-08-06 08:54:26,332 - discord.client - INFO - logging in using static token
+2025-08-06 08:54:26,780 - __main__ - INFO - Setting up background tasks...
+2025-08-06 08:54:26,780 - __main__ - INFO - Loading bot commands...
+2025-08-06 08:54:26,788 - commands - INFO - All commands have been set up successfully
+2025-08-06 08:54:26,788 - commands - INFO - Total commands available: 104
+2025-08-06 08:54:26,791 - special_events - INFO - Special events system initialized successfully
+2025-08-06 08:54:26,793 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-06 08:54:26,796 - quick_improvements - INFO - Quick improvements loaded successfully - 5 new commands added
+2025-08-06 08:54:26,796 - quick_improvements - INFO - Admin improvements loaded successfully
+2025-08-06 08:54:26,797 - __main__ - INFO - Successfully loaded 152 commands
+2025-08-06 08:54:26,981 - __main__ - INFO - Synced 3 slash commands
+2025-08-06 08:54:26,982 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-06 08:54:27,241 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 193db533322e8bd00919df016db86bee).
+2025-08-06 08:54:29,261 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-06 08:54:29,261 - __main__ - INFO - Bot is in 3 guilds
+2025-08-06 08:54:29,262 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 08:54:29,262 - economy - ERROR - Debt calculation error: Cannot operate on a closed database.
+2025-08-06 08:54:29,262 - performance_optimizer - ERROR - Database optimization error: Cannot operate on a closed database.
+2025-08-06 08:54:29,262 - performance_optimizer - ERROR - Data cleanup error: Cannot operate on a closed database.
+2025-08-06 08:54:29,262 - performance_optimizer - ERROR - Performance stats error: Cannot operate on a closed database.
+2025-08-06 08:54:29,262 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-06 08:55:29,283 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 08:56:29,302 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 08:57:29,279 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 08:58:29,298 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 08:59:29,264 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:00:29,295 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:01:29,271 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:02:29,290 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:03:29,268 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:04:29,288 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:10:21,058 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-06 09:10:21,062 - database - INFO - Database tables created successfully
+2025-08-06 09:10:21,072 - database - INFO - Default house data populated
+2025-08-06 09:10:21,072 - database - INFO - Database initialized successfully with optimizations
+2025-08-06 09:10:21,072 - achievements_system - INFO - Achievements tables created successfully
+2025-08-06 09:10:21,073 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-06 09:10:21,073 - economy_enhancements - INFO - Market tables created successfully
+2025-08-06 09:10:21,073 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-06 09:10:21,073 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-06 09:10:21,077 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-06 09:10:21,078 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-06 09:10:21,137 - bot_improvements - INFO - Bot improvements tables created successfully
+2025-08-06 09:10:21,137 - __main__ - INFO - Starting Discord bot...
+2025-08-06 09:10:21,137 - discord.client - INFO - logging in using static token
+2025-08-06 09:10:21,523 - __main__ - INFO - Setting up background tasks...
+2025-08-06 09:10:21,523 - __main__ - INFO - Loading bot commands...
+2025-08-06 09:10:21,531 - commands - INFO - All commands have been set up successfully
+2025-08-06 09:10:21,531 - commands - INFO - Total commands available: 104
+2025-08-06 09:10:21,534 - special_events - INFO - Special events system initialized successfully
+2025-08-06 09:10:21,537 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-06 09:10:21,540 - quick_improvements - INFO - Quick improvements loaded successfully - 5 new commands added
+2025-08-06 09:10:21,540 - quick_improvements - INFO - Admin improvements loaded successfully
+2025-08-06 09:10:21,541 - __main__ - INFO - Successfully loaded 152 commands
+2025-08-06 09:10:21,541 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-06 09:10:21,541 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-06 09:10:21,798 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 0437cd8508be7b0139ba026a5db137df).
+2025-08-06 09:10:23,847 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-06 09:10:23,847 - __main__ - INFO - Bot is in 3 guilds
+2025-08-06 09:10:23,848 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:10:23,848 - economy - ERROR - Debt calculation error: Cannot operate on a closed database.
+2025-08-06 09:10:23,848 - performance_optimizer - ERROR - Database optimization error: Cannot operate on a closed database.
+2025-08-06 09:10:23,848 - performance_optimizer - ERROR - Data cleanup error: Cannot operate on a closed database.
+2025-08-06 09:10:23,848 - performance_optimizer - ERROR - Performance stats error: Cannot operate on a closed database.
+2025-08-06 09:10:23,848 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-06 09:11:23,869 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:12:23,888 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:13:23,865 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:14:23,884 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:15:23,849 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:16:23,880 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:17:23,857 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:18:23,877 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:31:29,693 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-06 09:31:29,694 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-06 09:32:29,322 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-06 09:32:29,322 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-06 09:32:51,096 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-06 09:32:51,097 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-06 09:33:51,056 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-06 09:33:51,056 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-06 09:34:51,040 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-06 09:34:51,040 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-06 09:35:51,116 - __main__ - ERROR - DISCORD_BOT_TOKEN environment variable not set!
+2025-08-06 09:35:51,116 - __main__ - INFO - Please add your Discord bot token in the Secrets tab with key: DISCORD_BOT_TOKEN
+2025-08-06 09:36:26,260 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-06 09:36:26,271 - database - INFO - Database tables created successfully
+2025-08-06 09:36:26,301 - database - INFO - Default house data populated
+2025-08-06 09:36:26,301 - database - INFO - Database initialized successfully with optimizations
+2025-08-06 09:36:26,301 - achievements_system - INFO - Achievements tables created successfully
+2025-08-06 09:36:26,302 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-06 09:36:26,302 - economy_enhancements - INFO - Market tables created successfully
+2025-08-06 09:36:26,302 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-06 09:36:26,302 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-06 09:36:26,305 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-06 09:36:26,308 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-06 09:36:26,330 - bot_improvements - INFO - Bot improvements tables created successfully
+2025-08-06 09:36:26,331 - __main__ - INFO - Starting Discord bot...
+2025-08-06 09:36:26,331 - discord.client - INFO - logging in using static token
+2025-08-06 09:36:26,995 - __main__ - INFO - Setting up background tasks...
+2025-08-06 09:36:26,995 - __main__ - INFO - Loading bot commands...
+2025-08-06 09:36:27,004 - commands - INFO - All commands have been set up successfully
+2025-08-06 09:36:27,004 - commands - INFO - Total commands available: 105
+2025-08-06 09:36:27,008 - special_events - INFO - Special events system initialized successfully
+2025-08-06 09:36:27,009 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-06 09:36:27,013 - quick_improvements - INFO - Quick improvements loaded successfully - 5 new commands added
+2025-08-06 09:36:27,013 - quick_improvements - INFO - Admin improvements loaded successfully
+2025-08-06 09:36:27,013 - __main__ - INFO - Successfully loaded 153 commands
+2025-08-06 09:36:27,013 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-06 09:36:27,013 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-06 09:36:28,349 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: bf338299f902b912c1ade6dc1a4cfcc4).
+2025-08-06 09:36:30,365 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-06 09:36:30,365 - __main__ - INFO - Bot is in 3 guilds
+2025-08-06 09:36:30,366 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:36:30,366 - economy - ERROR - Debt calculation error: Cannot operate on a closed database.
+2025-08-06 09:36:30,366 - performance_optimizer - ERROR - Database optimization error: Cannot operate on a closed database.
+2025-08-06 09:36:30,366 - performance_optimizer - ERROR - Data cleanup error: Cannot operate on a closed database.
+2025-08-06 09:36:30,366 - performance_optimizer - ERROR - Performance stats error: Cannot operate on a closed database.
+2025-08-06 09:36:30,367 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-06 09:37:30,387 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:38:30,406 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:39:19,055 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-08-06 09:39:19,058 - database - INFO - Database tables created successfully
+2025-08-06 09:39:19,064 - database - INFO - Default house data populated
+2025-08-06 09:39:19,065 - database - INFO - Database initialized successfully with optimizations
+2025-08-06 09:39:19,065 - achievements_system - INFO - Achievements tables created successfully
+2025-08-06 09:39:19,065 - daily_challenges - INFO - Daily challenges table created successfully
+2025-08-06 09:39:19,065 - economy_enhancements - INFO - Market tables created successfully
+2025-08-06 09:39:19,065 - advanced_moderation - INFO - Advanced moderation tables created successfully
+2025-08-06 09:39:19,066 - lore_economic_system - INFO - Lore economic tables created successfully
+2025-08-06 09:39:19,066 - user_friendly_enhancements - INFO - User friendly system tables created successfully
+2025-08-06 09:39:19,067 - auto_moderation - INFO - Auto moderation system initialized successfully
+2025-08-06 09:39:19,075 - bot_improvements - INFO - Bot improvements tables created successfully
+2025-08-06 09:39:19,075 - __main__ - INFO - Starting Discord bot...
+2025-08-06 09:39:19,075 - discord.client - INFO - logging in using static token
+2025-08-06 09:39:19,452 - __main__ - INFO - Setting up background tasks...
+2025-08-06 09:39:19,452 - __main__ - INFO - Loading bot commands...
+2025-08-06 09:39:19,459 - commands - INFO - All commands have been set up successfully
+2025-08-06 09:39:19,459 - commands - INFO - Total commands available: 105
+2025-08-06 09:39:19,460 - special_events - INFO - Special events system initialized successfully
+2025-08-06 09:39:19,461 - user_friendly_enhancements - INFO - User friendly commands setup completed
+2025-08-06 09:39:19,462 - quick_improvements - INFO - Quick improvements loaded successfully - 5 new commands added
+2025-08-06 09:39:19,462 - quick_improvements - INFO - Admin improvements loaded successfully
+2025-08-06 09:39:19,462 - __main__ - INFO - Successfully loaded 153 commands
+2025-08-06 09:39:19,462 - __main__ - INFO - Skipping slash command sync (already synced recently)
+2025-08-06 09:39:19,462 - __main__ - INFO - Bot is ready for 24/7 operation!
+2025-08-06 09:39:19,741 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: ee90a2c5c8920bf61927f1d6642259f6).
+2025-08-06 09:39:21,776 - __main__ - INFO - Iron Throne RP#6979 has logged in!
+2025-08-06 09:39:21,776 - __main__ - INFO - Bot is in 3 guilds
+2025-08-06 09:39:21,776 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:39:21,777 - economy - ERROR - Debt calculation error: Cannot operate on a closed database.
+2025-08-06 09:39:21,777 - performance_optimizer - ERROR - Database optimization error: Cannot operate on a closed database.
+2025-08-06 09:39:21,777 - performance_optimizer - ERROR - Data cleanup error: Cannot operate on a closed database.
+2025-08-06 09:39:21,777 - performance_optimizer - ERROR - Performance stats error: Cannot operate on a closed database.
+2025-08-06 09:39:21,777 - __main__ - INFO - Daily maintenance completed. DB stats: {}
+2025-08-06 09:40:21,797 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:41:21,819 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:42:21,793 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:43:21,812 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:44:21,777 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:45:21,809 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:46:21,786 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:47:21,804 - economy - ERROR - Income generation error: Cannot operate on a closed database.
+2025-08-06 09:48:21,783 - economy - ERROR - Income generation error: Cannot operate on a closed database.

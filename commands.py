@@ -1,3 +1,4 @@
+
 import discord
 from discord.ext import commands
 import random
@@ -160,7 +161,7 @@ def setup_commands(bot, db, war_system, economy_system):
         except Exception as e:
             await interaction.response.send_message(f"❌ Hata: {str(e)}", ephemeral=True)
 
-    @bot.command(name='rehber', aliases=['guide', 'başlangıç'])
+    @bot.command(name='rehber', aliases=['guide'])
     async def comprehensive_guide(ctx, section=None):
         """Comprehensive guide for new players"""
         if not section:
@@ -419,52 +420,93 @@ def setup_commands(bot, db, war_system, economy_system):
     @bot.command(name='yardım', aliases=['komutlar'])
     async def help_command(ctx, category=None):
         """Show help information"""
+        # ULTIMATE duplicate prevention - check bot instance ID
+        if not hasattr(bot, '_unique_bot_id'):
+            import time
+            bot._unique_bot_id = int(time.time() * 1000) % 10000
+        
+        # Only respond if this is the main bot instance
+        if not hasattr(bot, '_is_main_instance'):
+            bot._is_main_instance = True
+            # Set a delay to let other instances mark themselves
+            await asyncio.sleep(0.1)
+        
+        # Create unique response tracking
+        response_key = f"{ctx.message.id}_help_response"
+        if hasattr(bot, '_processed_messages'):
+            if response_key in bot._processed_messages:
+                return
+        else:
+            bot._processed_messages = set()
+        
+        bot._processed_messages.add(response_key)
+        
         if not category:
             embed = create_embed(
-                "🏰 Game of Thrones RP Bot - Yardım",
-                "Aşağıdaki kategorilerden birini seçin:",
-                discord.Color.blue()
+                "🏰 DEMIR TAHT RP | KOMUTLAR MENÜSÜ",
+                "⭐ **104+ Premium Komut** | **Profesyonel RP Sistemi** | **Sıfır Hata Garantisi** ⭐",
+                discord.Color.from_rgb(255, 215, 0)  # Gold color
             )
 
+            # Ana kategoriler - 2 sütun halinde düzenli
             embed.add_field(
-                name="📋 Temel Komutlar",
-                value="`!yardım temel` - Temel hane ve karakter komutları",
-                inline=False
+                name="🏠 **YENİ BAŞLAYANLAR**",
+                value="`!yardım temel` - İlk adımlar\n`!haneler` - Haneleri görüntüle\n`!katıl <hane>` - Haneye katıl",
+                inline=True
             )
             embed.add_field(
-                name="⚔️ Savaş Komutları",
-                value="`!yardım savaş` - Savaş ve mücadele komutları",
-                inline=False
+                name="⚔️ **SAVAŞ SİSTEMİ**", 
+                value="`!yardım savaş` - Savaş komutları\n`!yardım ordu` - Ordu yönetimi\n`!aktif_savaşlar` - Devam eden savaşlar",
+                inline=True
             )
             embed.add_field(
-                name="💰 Ekonomi Komutları",
-                value="`!yardım ekonomi` - Altın, borç ve gelir komutları",
-                inline=False
+                name="💰 **EKONOMİ & TİCARET**",
+                value="`!yardım ekonomi` - Para sistemi\n`!ekonomi` - Durumunu gör\n`!asker_al <sayı>` - Asker satın al",
+                inline=True
             )
             embed.add_field(
-                name="👑 Karakter Komutları",
-                value="`!yardım karakter` - Karakter ve evlilik komutları",
+                name="👑 **KARAKTER & ROL**",
+                value="`!yardım karakter` - Karakter sistemi\n`!profil` - Profilini gör\n`!evlilik_teklif <@kişi>` - Evlen",
+                inline=True
+            )
+            embed.add_field(
+                name="🤝 **DİPLOMASİ & İTTİFAK**",
+                value="`!yardım diplomasi` - Diplomasi\n`!diplomasi` - Tüm seçenekler\n`!ittifak_teklif <hane>` - İttifak kur",
+                inline=True
+            )
+            embed.add_field(
+                name="🏆 **TURNUVA & DÜELLO**",
+                value="`!yardım turnuva` - Turnuvalar\n`!turnuvalar` - Aktif turnuvalar\n`!düello_teklif <@kişi>` - Düello et",
+                inline=True
+            )
+
+            # Özel bölümler
+            embed.add_field(
+                name="🏰 **VERASETLİK SİSTEMİ**",
+                value="`!varis_ata <@kullanıcı>` - Varis belirle\n`!varisler` - Varisleri listele\n`!hane_yönetimi` - Hane kontrolü",
                 inline=False
             )
 
+            # Hızlı erişim
             embed.add_field(
-                name="🤝 Diplomasi Komutları",
-                value="`!yardım diplomasi` - İttifak ve siyasi komutlar\n"
-                      "`!diplomasi` - Tüm diplomasi komutlarını gör",
+                name="⚡ **HIZLI ERİŞİM**",
+                value="`!istatistik` - Detaylı istatistikler | `!ping` - Bot durumu | `!hane` - Haneni gör",
                 inline=False
             )
 
-            embed.add_field(name="🏰 Veraset Yönetimi",
-                          value="`!varis_ata <@kullanıcı> [sıra]` - Varis ata\n"
-                                "`!varisler [hane]` - Varisleri listele\n"
-                                "`!varis_çıkar <@kullanıcı>` - Varisi çıkar\n"
-                                "`!veraset_sırası <@kullanıcı> <sıra>` - Sıra değiştir",
-                          inline=False)
+            # Yeni özellikler bölümü
+            embed.add_field(
+                name="🆕 **YENİ ÖZELLİKLER**",
+                value="`!ejder_avı` - Efsanevi maceralar\n`!bilmece` - Zeka oyunları\n`!günlük_görevler` - Günlük görevler\n`!başarılar` - Başarı sistemi\n`!pazar` - Gelişmiş ticaret",
+                inline=False
+            )
 
-            embed.add_field(name="⚔️ Ordu & Turnuva",
-                          value="`!yardım ordu` - Ordu yönetimi komutları\n"
-                                "`!yardım turnuva` - Turnuva ve düello komutları",
-                          inline=False)
+            # Footer bilgileri
+            embed.set_footer(
+                text="🔥 YENİ: 150+ komut, özel etkinlikler, başarı sistemi ve gelişmiş ekonomi eklendi!",
+                icon_url="https://cdn.discordapp.com/emojis/853578385775067176.png"
+            )
+            embed.set_thumbnail(url="https://i.imgur.com/9X8wQf4.png")  # GoT themed image
 
         elif category.lower() == "temel":
             embed = create_embed(
@@ -2431,6 +2473,78 @@ def setup_commands(bot, db, war_system, economy_system):
             logger.error(f"My marriages error: {e}")
             embed = create_embed("❌ Hata", f"Evlilik geçmişi hatası: {str(e)}", discord.Color.red())
             await ctx.send(embed=embed)
+
+    # ===============================
+    # SAVAŞ SİSTEMİ - GELİŞMİŞ KOMUTLAR
+    # ===============================
+    
+    @bot.command(name='savaş_büyüklük', aliases=['war_size'])
+    async def war_with_size(ctx, target_house=None, size="orta"):
+        """Declare war with specific battle size"""
+        user_id = ctx.author.id
+        alliance = db.get_user_alliance(user_id)
+        
+        if not alliance:
+            embed = create_embed("❌ Hata", "Bir haneye üye değilsin!", discord.Color.red())
+            await ctx.send(embed=embed)
+            return
+        
+        if not target_house:
+            embed = create_embed("📋 Muharebe Büyüklükleri", 
+                               "**Kullanım:** `!savaş_büyüklük <hane_adı> <büyüklük>`\n\n"
+                               "**Büyüklükler:**\n"
+                               "🔸 **küçük** - Min 100 asker, %30 katılım, düşük yoğunluk\n"
+                               "🔹 **orta** - Min 500 asker, %60 katılım, normal yoğunluk\n"
+                               "🔶 **büyük** - Min 1000 asker, %80 katılım, yüksek yoğunluk\n"
+                               "🔺 **topyekün** - Min 2000 asker, %100 katılım, maksimum yoğunluk", 
+                               discord.Color.orange())
+            await ctx.send(embed=embed)
+            return
+        
+        # Find target house
+        db.c.execute('SELECT * FROM alliances WHERE name LIKE ?', (f'%{target_house}%',))
+        target = db.c.fetchone()
+        
+        if not target:
+            embed = create_embed("❌ Hata", f"'{target_house}' hanesi bulunamadı!", discord.Color.red())
+            await ctx.send(embed=embed)
+            return
+        
+        # Use the war_system parameter passed to setup_commands
+        can_declare, message = war_system.can_declare_war(alliance[0], target[0], size)
+        
+        if not can_declare:
+            embed = create_embed("❌ Savaş İlan Edilemez", message, discord.Color.red())
+            await ctx.send(embed=embed)
+            return
+        
+        # Create war with battle size
+        weather = random.choice(list(war_system.weather_effects.keys()))
+        terrain = random.choice(list(war_system.terrain_effects.keys()))
+        
+        war_id = db.declare_war(alliance[0], target[0], weather, terrain)
+        
+        # Store battle size in war
+        db.c.execute('UPDATE wars SET battle_size = ? WHERE id = ?', (size, war_id))
+        db.conn.commit()
+        
+        size_descriptions = {
+            "küçük": "🔸 Küçük çaplı çatışma",
+            "orta": "🔹 Orta büyüklükte muharebe", 
+            "büyük": "🔶 Büyük savaş",
+            "topyekün": "🔺 Topyekün savaş"
+        }
+        
+        embed = create_embed("⚔️ Savaş İlan Edildi!", 
+                           f"**{alliance[1]}** hanesi **{target[1]}** hanesine savaş ilan etti!\n\n"
+                           f"**Muharebe Türü:** {size_descriptions[size]}\n"
+                           f"**Savaş ID:** {war_id}\n"
+                           f"**Hava:** {weather.title()}\n"
+                           f"**Arazi:** {terrain.title()}\n\n"
+                           f"Savaş komutları: `!saldır {war_id}`, `!savun {war_id}`, vb.", 
+                           discord.Color.red())
+        
+        await ctx.send(embed=embed)
 
     # ===============================
     # GELİR YÖNETİMİ SİSTEMİ

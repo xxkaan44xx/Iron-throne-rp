@@ -104,20 +104,25 @@ class PerformanceOptimizer:
         try:
             stats = {}
             
-            # Table sizes
-            tables = ['alliances', 'members', 'users', 'wars', 'tournaments', 
-                     'duels', 'marriages', 'income_sources', 'house_debts']
+            # Check which tables actually exist
+            self.db.c.execute("SELECT name FROM sqlite_master WHERE type='table'")
+            existing_tables = [row[0] for row in self.db.c.fetchall()]
+            
+            # Table sizes - only check existing tables
+            tables = ['alliances', 'members', 'wars', 'tournaments', 
+                     'duels', 'marriages', 'income_sources', 'house_debts',
+                     'asoiaf_characters', 'battle_logs', 'army_resources']
             
             for table in tables:
-                try:
-                    self.db.c.execute(f"SELECT COUNT(*) FROM {table}")
-                    stats[f"{table}_count"] = self.db.c.fetchone()[0]
-                except sqlite3.OperationalError as e:
-                    if "no such table" in str(e):
-                        logger.warning(f"Table {table} doesn't exist, skipping count")
+                if table in existing_tables:
+                    try:
+                        self.db.c.execute(f"SELECT COUNT(*) FROM {table}")
+                        stats[f"{table}_count"] = self.db.c.fetchone()[0]
+                    except sqlite3.OperationalError as e:
+                        logger.warning(f"Error counting {table}: {e}")
                         stats[f"{table}_count"] = 0
-                    else:
-                        raise
+                else:
+                    stats[f"{table}_count"] = 0
             
             # Database size
             self.db.c.execute("SELECT page_count * page_size as size FROM pragma_page_count(), pragma_page_size()")

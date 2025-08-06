@@ -1,162 +1,103 @@
-from flask import Flask, jsonify
-from threading import Thread
-import time
+"""
+Render deployment service - combines Discord bot with web server
+"""
 import os
-import random
-import socket
-import psutil
-import subprocess
-import sys
-import signal
+import threading
+import time
+import asyncio
+from flask import Flask, jsonify
 
-app = Flask('')
+# Flask web servisi
+app = Flask(__name__)
 
-# Bot'un başlangıç zamanını kaydet
-start_time = time.time()
-bot_process = None
+# Bot durumu için global değişken
+bot_status = "Starting..."
+bot_error = None
 
 @app.route('/')
 def home():
-    return """
+    return f'''
     <html>
-    <head><title>🏰 Iron Throne RP Bot</title></head>
-    <body style="font-family: Arial; background: #2c2f33; color: #ffffff; text-align: center; padding: 50px;">
-        <h1>🏰 Game of Thrones Discord Bot</h1>
-        <h2>⚔️ Iron Throne RP - Demir Taht Roleplay</h2>
-        <p>✅ Bot is alive and running 24/7!</p>
-        <p>🏆 104+ Commands | 🏰 10 Houses | ⚔️ Advanced War System</p>
-        <p>💰 Economy System | 👑 Marriage System | 🛡️ Auto Moderation</p>
-        <hr>
-        <p><a href="/status" style="color: #7289da;">Bot Status</a> | <a href="/health" style="color: #7289da;">Health Check</a></p>
-        <p><small>Created by xxkaan44xx | Running on Replit</small></p>
+    <head><title>IronWard Discord Bot</title></head>
+    <body style="font-family: Arial; text-align: center; padding: 50px; background: #2c3e50; color: white;">
+        <h1>🛡️ IronWard Discord Bot</h1>
+        <p>Bot durumu: <span style="color: {'#2ecc71' if 'Aktif' in bot_status else '#e74c3c'};">{bot_status}</span></p>
+        <p>Bu sayfa Render servisini aktif tutar ve bot durumunu gösterir.</p>
+        {f'<p style="color: #e74c3c;">Hata: {bot_error}</p>' if bot_error else ''}
     </body>
     </html>
-    """
-
-@app.route('/status')
-def status():
-    uptime_seconds = time.time() - start_time
-    uptime_hours = uptime_seconds / 3600
-
-    return jsonify({
-        "status": "running",
-        "service": "Iron Throne RP Discord Bot",
-        "version": "3.0 Professional Edition",
-        "uptime_seconds": round(uptime_seconds),
-        "uptime_hours": round(uptime_hours, 2),
-        "features": {
-            "commands": "104+",
-            "houses": 10,
-            "systems": ["War", "Economy", "Marriage", "Tournament", "Trade"],
-            "moderation": "Advanced Auto-Mod"
-        },
-        "timestamp": time.time(),
-        "memory_usage": f"{psutil.Process().memory_info().rss / 1024 / 1024:.1f} MB" if 'psutil' in globals() else "N/A"
-    })
+    '''
 
 @app.route('/health')
 def health():
-    global bot_process
-    bot_status = "active" if bot_process and bot_process.poll() is None else "inactive"
-    
     return jsonify({
-        "health": "ok",
-        "bot": bot_status,
-        "database": "connected",
-        "systems": "operational",
-        "process_alive": bot_process is not None and bot_process.poll() is None,
-        "last_check": time.time()
+        'status': 'healthy', 
+        'service': 'ironward-bot',
+        'bot_status': bot_status,
+        'error': bot_error
     })
 
-@app.route('/restart-bot')
-def restart_bot():
-    """Restart the Discord bot if it crashes"""
-    global bot_process
+@app.route('/ping')
+def ping():
+    return jsonify({'response': 'pong'})
+
+def start_discord_bot():
+    """Discord botunu ayrı thread'de başlat"""
+    global bot_status, bot_error
     try:
-        if bot_process:
-            bot_process.terminate()
-            bot_process.wait(timeout=10)
+        # Discord bot import ve çalıştırma
+        bot_status = "Bağlanıyor..."
         
-        bot_process = subprocess.Popen([sys.executable, 'main.py'])
-        return jsonify({"status": "bot restarted", "pid": bot_process.pid})
-    except Exception as e:
-        return jsonify({"status": "error", "message": str(e)})
-
-def find_free_port():
-    """Find a free port to use"""
-    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
-        s.bind(('', 0))
-        s.listen(1)
-        port = s.getsockname()[1]
-    return port
-
-def run():
-    try:
-        # Replit requires port 5000 for web server
-        port = int(os.environ.get('PORT', 5000))
-        app.run(host="0.0.0.0", port=port, debug=False)
-    except Exception as e:
-        print(f"Flask server error: {e}")
-
-def keep_alive():
-    """Start Flask server in a separate thread"""
-    server = Thread(target=run)
-    server.daemon = True
-    server.start()
-
-def start_bot():
-    """Start the Discord bot as a subprocess"""
-    global bot_process
-    try:
-        bot_process = subprocess.Popen([sys.executable, 'main.py'])
-        return bot_process
-    except Exception as e:
-        print(f"Failed to start bot: {e}")
-        return None
-
-def monitor_bot():
-    """Monitor bot process and restart if crashed"""
-    global bot_process
-    while True:
-        if bot_process is None or bot_process.poll() is not None:
-            print("Bot process not running, starting...")
-            bot_process = start_bot()
-            if bot_process:
-                print(f"Bot started with PID: {bot_process.pid}")
-            else:
-                print("Failed to start bot, retrying in 30 seconds...")
-                time.sleep(30)
-                continue
+        # Discord bot token kontrolü
+        token = os.getenv('DISCORD_BOT_TOKEN')
+        if not token:
+            bot_error = "DISCORD_BOT_TOKEN environment variable bulunamadı!"
+            bot_status = "Token Hatası"
+            return
+            
+        # Bot import
+        import discord
+        from discord.ext import commands
         
-        time.sleep(60)  # Check every minute
+        bot_status = "Discord'a bağlanıyor..."
+        
+        # Basit bot instance
+        intents = discord.Intents.default()
+        intents.message_content = True
+        intents.members = True
+        
+        bot = commands.Bot(command_prefix='!', intents=intents)
+        
+        @bot.event
+        async def on_ready():
+            global bot_status
+            bot_status = f"Aktif - {len(bot.guilds)} sunucuda"
+            print(f"✅ Bot aktif: {bot.user.name if bot.user else 'Unknown'} - {len(bot.guilds)} sunucuda")
+        
+        @bot.event
+        async def on_connect():
+            global bot_status
+            bot_status = "Discord'a bağlandı"
+            print("🔗 Discord'a bağlandı")
+            
+        # Bot'u çalıştır
+        bot.run(token)
+        
+    except Exception as e:
+        bot_error = str(e)
+        bot_status = "Hata"
+        print(f"❌ Bot hatası: {e}")
 
-def signal_handler(signum, frame):
-    """Handle shutdown signals gracefully"""
-    global bot_process
-    print("Shutting down gracefully...")
-    if bot_process:
-        bot_process.terminate()
-        bot_process.wait()
-    sys.exit(0)
+def start_web_server():
+    """Web serverini başlat"""
+    port = int(os.environ.get('PORT', 5000))
+    print(f"🌐 Web server başlatılıyor - Port: {port}")
+    app.run(host='0.0.0.0', port=port, debug=False)
 
-if __name__ == "__main__":
-    # Register signal handlers for graceful shutdown
-    signal.signal(signal.SIGTERM, signal_handler)
-    signal.signal(signal.SIGINT, signal_handler)
+if __name__ == '__main__':
+    # Discord botunu ayrı thread'de başlat
+    bot_thread = threading.Thread(target=start_discord_bot, daemon=True)
+    bot_thread.start()
     
-    # Start Flask web server
-    keep_alive()
-    print("Web server started on port 5000")
-    
-    # Start bot monitoring
-    monitor_thread = Thread(target=monitor_bot)
-    monitor_thread.daemon = True
-    monitor_thread.start()
-    print("Bot monitoring started")
-    
-    # Keep the main process alive
-    try:
-        while True:
-            time.sleep(1)
-    except KeyboardInterrupt:
-        signal_handler(signal.SIGINT, None)
+    # Web server'ı ana thread'de çalıştır (Render için gerekli)
+    start_web_server()
